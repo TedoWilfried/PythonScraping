@@ -1,0 +1,4921 @@
+{
+   "id": 1,
+   "designation": "DART-Q",
+   "dcifrancais": [
+      {
+         "name": "DIHYDROARTEMISININE ",
+         "dosage": "15 mg "
+      },
+      {
+         "name": " PHOSPHATE DE PIPERAQUINE",
+         "dosage": " 120 mg"
+      }
+   ],
+   "forme": "Granul en sachet",
+   "voie": "Orale",
+   "presentation": "B/16",
+   "classeTherap": "ANTIPALUDIQUES",
+   "codeAMM": "AMM_2020_7363",
+   "dateExpire": "28/01/2025",
+   "fabriquant": "GOSUN PHARMA CORP",
+   "demandeur": "GOSUN PHARMA CORP",
+   "PGHT": "1,830.12"
+}{
+   "id": 2,
+   "designation": "FEDATE",
+   "dcifrancais": [
+      {
+         "name": "FER ",
+         "dosage": "-"
+      },
+      {
+         "name": " PYRIDOXINE ",
+         "dosage": "-"
+      },
+      {
+         "name": " CYANOCOBALAMINE ",
+         "dosage": "-"
+      },
+      {
+         "name": " ACIDE FOLIQ",
+         "dosage": "-"
+      }
+   ],
+   "forme": "Sirop",
+   "voie": "Orale",
+   "presentation": "Fl/200ml",
+   "classeTherap": "ANTIANEMIQUES",
+   "codeAMM": "9234/12",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "AJANTA PHARMA (MAURITIUS) LTD",
+   "demandeur": "AJANTA PHARMA (MAURITIUS) LTD",
+   "PGHT": "1,213.52"
+}{
+   "id": 3,
+   "designation": "DOLKO 1G",
+   "dcifrancais": [
+      {
+         "name": "PARACETAMOL",
+         "dosage": "1 g"
+      }
+   ],
+   "forme": "Comprim scable",
+   "voie": "Orale",
+   "presentation": "B/8",
+   "classeTherap": "ANTALGIQUES/ANTIPYRETIQUES",
+   "codeAMM": "6278/07",
+   "dateExpire": "31/07/2022",
+   "fabriquant": "THERABEL LUCIEN PHARMA",
+   "demandeur": "THERABEL LUCIEN PHARMA",
+   "PGHT": "537.88"
+}{
+   "id": 4,
+   "designation": "PROMETHAZINE CHLORHYDRATE PHARMAQUICK",
+   "dcifrancais": [
+      {
+         "name": "PROMTHAZINE",
+         "dosage": "25 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/100",
+   "classeTherap": "ANTIHISTAMINIQUES",
+   "codeAMM": "AMM_2019_5493",
+   "dateExpire": "31/07/2022",
+   "fabriquant": "PHARMAQUICK BY ABT ZONE INDUSTRIELLE",
+   "demandeur": "PHARMAQUICK BY ABT ZONE INDUSTRIELLE",
+   "PGHT": "59.04"
+}{
+   "id": 5,
+   "designation": "OXAPEN",
+   "dcifrancais": [
+      {
+         "name": "OXACILLINE",
+         "dosage": "500 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/12",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "AMM_2017_2390",
+   "dateExpire": "31/07/2022",
+   "fabriquant": "ODYPHARM INDIA PVT LTD",
+   "demandeur": "ODYPHARM INDIA PVT LTD",
+   "PGHT": "2,289.28"
+}{
+   "id": 6,
+   "designation": "OXACILLINE",
+   "dcifrancais": [
+      {
+         "name": "OXACILLINE",
+         "dosage": "500 mg"
+      }
+   ],
+   "forme": "Glule",
+   "voie": "Orale",
+   "presentation": "B/10x12",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "6324/07",
+   "dateExpire": "29/07/2022",
+   "fabriquant": "UBITHERA PHARMA PVT.LTD.",
+   "demandeur": "UBITHERA PHARMA PVT.LTD.",
+   "PGHT": "15,742.97"
+}{
+   "id": 7,
+   "designation": "OXAPEN",
+   "dcifrancais": [
+      {
+         "name": "OXACILLINE",
+         "dosage": "1 g"
+      }
+   ],
+   "forme": "Ampoule injectable",
+   "voie": "Parentrale",
+   "presentation": "B/1",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "AMM_2017_2389",
+   "dateExpire": "31/07/2022",
+   "fabriquant": "ODYPHARM INDIA PVT LTD",
+   "demandeur": "ODYPHARM INDIA PVT LTD",
+   "PGHT": "970.81"
+}{
+   "id": 8,
+   "designation": "ARTECOM",
+   "dcifrancais": [
+      {
+         "name": "DIHYDROARTEMISININE ",
+         "dosage": "32 mg "
+      },
+      {
+         "name": " PIPERAQUINE PHOSPHATE ",
+         "dosage": " 320 mg "
+      },
+      {
+         "name": " TRIMETHOPRIME",
+         "dosage": " 90 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/8",
+   "classeTherap": "ANTIPALUDIQUES",
+   "codeAMM": "6381/09",
+   "dateExpire": "31/05/2024",
+   "fabriquant": "ODYPHARM INDIA PVT LTD",
+   "demandeur": "ODYPHARM INDIA PVT LTD",
+   "PGHT": "3,804.55"
+}{
+   "id": 9,
+   "designation": "FLUOMAC",
+   "dcifrancais": [
+      {
+         "name": "FLUCONAZOLE",
+         "dosage": "150 mg"
+      }
+   ],
+   "forme": "Glule",
+   "voie": "Orale",
+   "presentation": "B/1",
+   "classeTherap": "ANTIFONGIQUES",
+   "codeAMM": "6336/07",
+   "dateExpire": "31/07/2022",
+   "fabriquant": "MACLEODS PHARMACEUTICALS LTD.",
+   "demandeur": "MACLEODS PHARMACEUTICALS LTD.",
+   "PGHT": "249.26"
+}{
+   "id": 10,
+   "designation": "ACUDROX 250",
+   "dcifrancais": [
+      {
+         "name": "CEFADROXIL",
+         "dosage": "250 mg/5ml"
+      }
+   ],
+   "forme": "Suspension buvable",
+   "voie": "Orale",
+   "presentation": "Fl/30ml",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "AMM_2018_4388",
+   "dateExpire": "31/07/2022",
+   "fabriquant": "MACLEODS PHARMACEUTICALS LTD.",
+   "demandeur": "MACLEODS PHARMACEUTICALS LTD.",
+   "PGHT": "1,311.91"
+}{
+   "id": 11,
+   "designation": "TENORIC",
+   "dcifrancais": [
+      {
+         "name": "ATENOLOL ",
+         "dosage": "100 mg "
+      },
+      {
+         "name": " CHLORTALIDONE",
+         "dosage": " 25 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/28",
+   "classeTherap": "ANTIHYPERTENSEURS",
+   "codeAMM": "AMM_2017_2250",
+   "dateExpire": "31/08/2022",
+   "fabriquant": "IPCA LABORATORIES LIMITED",
+   "demandeur": "IPCA LABORATORIES LIMITED",
+   "PGHT": "3,502.81"
+}{
+   "id": 12,
+   "designation": "TENORIC",
+   "dcifrancais": [
+      {
+         "name": "ATENOLOL ",
+         "dosage": "50 mg "
+      },
+      {
+         "name": " CHLORTALIDONE",
+         "dosage": " 12,5 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/30",
+   "classeTherap": "ANTIHYPERTENSEURS",
+   "codeAMM": "AMM_2017_2249",
+   "dateExpire": "31/08/2022",
+   "fabriquant": "IPCA LABORATORIES LIMITED",
+   "demandeur": "IPCA LABORATORIES LIMITED",
+   "PGHT": "2,341.76"
+}{
+   "id": 13,
+   "designation": "ZERODOL",
+   "dcifrancais": [
+      {
+         "name": "ACECLOFENAC",
+         "dosage": "100 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/10",
+   "classeTherap": "ANTIINFLAMMATOIRES NON STEROIDIEN",
+   "codeAMM": "AMM_2018_2942",
+   "dateExpire": "31/08/2022",
+   "fabriquant": "IPCA LABORATORIES LIMITED",
+   "demandeur": "IPCA LABORATORIES LIMITED",
+   "PGHT": "1,502.14"
+}{
+   "id": 14,
+   "designation": "CARMOX-250",
+   "dcifrancais": [
+      {
+         "name": "AMOXICILLINE ",
+         "dosage": "250 mg "
+      },
+      {
+         "name": " BROMHEXINE",
+         "dosage": " 8 mg"
+      }
+   ],
+   "forme": "Sirop",
+   "voie": "Orale",
+   "presentation": "Fl/60ml",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "AMM_2017_2411",
+   "dateExpire": "31/08/2022",
+   "fabriquant": "CAPLIN POINT LABORATOIRES.",
+   "demandeur": "CAPLIN POINT LABORATOIRES.",
+   "PGHT": "898.66"
+}{
+   "id": 15,
+   "designation": "PHILCO-CLOXA",
+   "dcifrancais": [
+      {
+         "name": "CLOXACILLINE",
+         "dosage": "500 mg"
+      }
+   ],
+   "forme": "Glule",
+   "voie": "Orale",
+   "presentation": "B/10x10",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "AMM_2017_1758",
+   "dateExpire": "31/08/2022",
+   "fabriquant": "PHILCO - PHARMA E.K.",
+   "demandeur": "PHILCO - PHARMA E.K.",
+   "PGHT": "2,558.23"
+}{
+   "id": 16,
+   "designation": "PHILCO-CEFTRIAXONE",
+   "dcifrancais": [
+      {
+         "name": "CEFTRIAXONE",
+         "dosage": "1g"
+      }
+   ],
+   "forme": "Poudre pour solution injectable en flacon",
+   "voie": "Parentrale",
+   "presentation": "B/1",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "AMM_2017_1756",
+   "dateExpire": "31/08/2022",
+   "fabriquant": "PHILCO - PHARMA E.K.",
+   "demandeur": "PHILCO - PHARMA E.K.",
+   "PGHT": "1,246.32"
+}{
+   "id": 17,
+   "designation": "PHILCO-DICLO",
+   "dcifrancais": [
+      {
+         "name": "DICLOFENAC SODIQUE",
+         "dosage": "50 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/100x10",
+   "classeTherap": "ANTIINFLAMMATOIRES NON STEROIDIEN",
+   "codeAMM": "AMM_2017_1757",
+   "dateExpire": "31/08/2022",
+   "fabriquant": "PHILCO - PHARMA E.K.",
+   "demandeur": "PHILCO - PHARMA E.K.",
+   "PGHT": "5,805.22"
+}{
+   "id": 18,
+   "designation": "PHILCO-AMPICILLIN",
+   "dcifrancais": [
+      {
+         "name": "AMPICILLINE",
+         "dosage": "1 g"
+      }
+   ],
+   "forme": "Poudre pour solution injectable en ampoule",
+   "voie": "Parentrale",
+   "presentation": "B/50",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "AMM_2017_1760",
+   "dateExpire": "31/08/2022",
+   "fabriquant": "PHILCO - PHARMA E.K.",
+   "demandeur": "PHILCO - PHARMA E.K.",
+   "PGHT": "5,739.62"
+}{
+   "id": 19,
+   "designation": "PHILCO-AMOXY",
+   "dcifrancais": [
+      {
+         "name": "AMOXICILLINE",
+         "dosage": "500 mg"
+      }
+   ],
+   "forme": "Glule",
+   "voie": "Orale",
+   "presentation": "B/100x10",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "6372/12",
+   "dateExpire": "31/08/2022",
+   "fabriquant": "PHILCO - PHARMA E.K.",
+   "demandeur": "PHILCO - PHARMA E.K.",
+   "PGHT": "34,732.92"
+}{
+   "id": 20,
+   "designation": "CURAM",
+   "dcifrancais": [
+      {
+         "name": "AMOXICILLINE ",
+         "dosage": "500 mg "
+      },
+      {
+         "name": " CLAVULANATE DE POTASSIUM",
+         "dosage": " 100 mg"
+      }
+   ],
+   "forme": "Solution injectable pour perfusion",
+   "voie": "Parentrale",
+   "presentation": "B/1",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "6378/07",
+   "dateExpire": "31/08/2022",
+   "fabriquant": "SANDOZ GmbH",
+   "demandeur": "SANDOZ GmbH",
+   "PGHT": "1,581.39"
+}{
+   "id": 21,
+   "designation": "LAMISIL",
+   "dcifrancais": [
+      {
+         "name": "TERBINAFINE",
+         "dosage": "1 %"
+      }
+   ],
+   "forme": "Crme",
+   "voie": "Cutane",
+   "presentation": "T/15g",
+   "classeTherap": "ANTIFONGIQUES",
+   "codeAMM": "AMM_2019_4992",
+   "dateExpire": "31/08/2022",
+   "fabriquant": "NOVARTIS PHARMA SERVICES A. G,",
+   "demandeur": "NOVARTIS PHARMA SERVICES A. G,",
+   "PGHT": "2,400.80"
+}{
+   "id": 22,
+   "designation": "TRES - ORIX FORTE",
+   "dcifrancais": [
+      {
+         "name": "OROTATE DE CYPROHEPTADINE ",
+         "dosage": "1.5 mg "
+      },
+      {
+         "name": " CARNITINE CHLORHYDRATE ",
+         "dosage": " 150 mg "
+      },
+      {
+         "name": " LYSINE CHLORHYDRATE ",
+         "dosage": "150 mg "
+      },
+      {
+         "name": " COENZYME B12",
+         "dosage": " 1 mg"
+      }
+   ],
+   "forme": "Glule",
+   "voie": "Orale",
+   "presentation": "B/20",
+   "classeTherap": "ANTIHISTAMINIQUES H1 (Orexigne)",
+   "codeAMM": "6384/07",
+   "dateExpire": "31/08/2022",
+   "fabriquant": "DICAMEX",
+   "demandeur": "DICAMEX",
+   "PGHT": "1,672.69"
+}{
+   "id": 23,
+   "designation": "SPASFON 80mg",
+   "dcifrancais": [
+      {
+         "name": "PHLOROGLUCINOL ",
+         "dosage": "80 mg "
+      },
+      {
+         "name": " TRIMETHYLPHLOROGLUCINOL",
+         "dosage": " 80 mg"
+      }
+   ],
+   "forme": "Comprim enrob",
+   "voie": "Orale",
+   "presentation": "B/30",
+   "classeTherap": "ANTISPASMODIQUES",
+   "codeAMM": "AMM_2017_2294",
+   "dateExpire": "31/08/2022",
+   "fabriquant": "MACORS",
+   "demandeur": "ACINO FRANCE SAS",
+   "PGHT": "1,069.20"
+}{
+   "id": 24,
+   "designation": "SPASFON",
+   "dcifrancais": [
+      {
+         "name": "PHLOROGLUCINOL ",
+         "dosage": "0.1167 g "
+      },
+      {
+         "name": " TRIMETHYLPHLOROGLUCINOL",
+         "dosage": " 0.1500 g"
+      }
+   ],
+   "forme": "Suppositoire",
+   "voie": "Orale",
+   "presentation": "B/10",
+   "classeTherap": "ANTISPASMODIQUES",
+   "codeAMM": "AMM_2017_2292",
+   "dateExpire": "31/08/2022",
+   "fabriquant": "CEPHALON",
+   "demandeur": "ACINO FRANCE SAS",
+   "PGHT": "1,095.44"
+}{
+   "id": 25,
+   "designation": "TAVANIC",
+   "dcifrancais": [
+      {
+         "name": "LEVOFLOXACINE",
+         "dosage": "500 mg"
+      }
+   ],
+   "forme": "Comprim pellicul",
+   "voie": "Orale",
+   "presentation": "B/5",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "AMM_2017_2432",
+   "dateExpire": "30/09/2022",
+   "fabriquant": "SANOFI - AVENTIS",
+   "demandeur": "SANOFI - AVENTIS",
+   "PGHT": "5,083.66"
+}{
+   "id": 26,
+   "designation": "PIROXEN",
+   "dcifrancais": [
+      {
+         "name": "PIROXICAM",
+         "dosage": "20 mg"
+      }
+   ],
+   "forme": "Comprim dispersible",
+   "voie": "Orale",
+   "presentation": "B/12",
+   "classeTherap": "ANTIINFLAMMATOIRES NON STEROIDIEN",
+   "codeAMM": "AMM_2019_5024",
+   "dateExpire": "30/09/2022",
+   "fabriquant": "MEDIS",
+   "demandeur": "MEDIS",
+   "PGHT": "1,810.44"
+}{
+   "id": 27,
+   "designation": "GENTA 160",
+   "dcifrancais": [
+      {
+         "name": "GENTAMICINE",
+         "dosage": "160 mg"
+      }
+   ],
+   "forme": "Ampoule injectable",
+   "voie": "Parentrale",
+   "presentation": "B/1x 2ml",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "AMM_2019_5025",
+   "dateExpire": "30/09/2022",
+   "fabriquant": "MEDIS",
+   "demandeur": "MEDIS",
+   "PGHT": "1,429.98"
+}{
+   "id": 28,
+   "designation": "VELITEN",
+   "dcifrancais": [
+      {
+         "name": "ACIDE ASCORBIQUE ",
+         "dosage": "200 mg "
+      },
+      {
+         "name": " ACETATE D'ALPHATOCOPHEROL ",
+         "dosage": " 50 mg "
+      },
+      {
+         "name": " RUTINE",
+         "dosage": " 200 mg"
+      }
+   ],
+   "forme": "Comprim pellicul",
+   "voie": "Orale",
+   "presentation": "B/30",
+   "classeTherap": "VASCULOPROTECTEURS",
+   "codeAMM": "AMM_2018_3392",
+   "dateExpire": "30/10/2022",
+   "fabriquant": "ZAMBON FRANCE S.A.",
+   "demandeur": "ZAMBON FRANCE S.A.",
+   "PGHT": "1,771.08"
+}{
+   "id": 29,
+   "designation": "PANOTILE",
+   "dcifrancais": [
+      {
+         "name": "SULFATE DE POLYMYXINE B ",
+         "dosage": "1000000 UI "
+      },
+      {
+         "name": " NEOMYCINE ",
+         "dosage": " 1 g "
+      },
+      {
+         "name": " ACETATE DE FLUDROCORTISONE ",
+         "dosage": " 0,1 g "
+      },
+      {
+         "name": " LIDOCANE",
+         "dosage": " 4 g"
+      }
+   ],
+   "forme": "Solution pour instillation auriculaire",
+   "voie": "Auriculaire",
+   "presentation": "Fl/8ml",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "AMM_2018_3391",
+   "dateExpire": "30/10/2022",
+   "fabriquant": "ZAMBON FRANCE S.A.",
+   "demandeur": "ZAMBON FRANCE S.A.",
+   "PGHT": "852.74"
+}{
+   "id": 30,
+   "designation": "ALOX",
+   "dcifrancais": [
+      {
+         "name": "HYDROXYDE ALUMINIUM ",
+         "dosage": "400mg "
+      },
+      {
+         "name": " HYDROXYDE MAGNSIUM",
+         "dosage": " 400mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/40",
+   "classeTherap": "ANTIACIDES",
+   "codeAMM": "6424/07",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "PHARMAPRODUCT MANUFACTURING (PPM)",
+   "demandeur": "PHARMAPRODUCT MANUFACTURING (PPM)",
+   "PGHT": "983.93"
+}{
+   "id": 31,
+   "designation": "PANOL",
+   "dcifrancais": [
+      {
+         "name": "PARACETAMOL",
+         "dosage": "500 mg"
+      }
+   ],
+   "forme": "Sachet",
+   "voie": "Orale",
+   "presentation": "B/12",
+   "classeTherap": "ANTALGIQUES/ANTIPYRETIQUES",
+   "codeAMM": "6428/07",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "PHARMAPRODUCT MANUFACTURING (PPM)",
+   "demandeur": "PHARMAPRODUCT MANUFACTURING (PPM)",
+   "PGHT": "590.36"
+}{
+   "id": 32,
+   "designation": "LINCOMYCINE",
+   "dcifrancais": [
+      {
+         "name": "LINCOMYCINE",
+         "dosage": "500 mg"
+      }
+   ],
+   "forme": "Glule",
+   "voie": "Orale",
+   "presentation": "B/10x10",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "6436/07",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "PHARMAPRODUCT MANUFACTURING (PPM)",
+   "demandeur": "PHARMAPRODUCT MANUFACTURING (PPM)",
+   "PGHT": "6,559.57"
+}{
+   "id": 33,
+   "designation": "B-VIT FORT",
+   "dcifrancais": [
+      {
+         "name": "THIAMINE ",
+         "dosage": "-"
+      },
+      {
+         "name": " PYRIDOXINE ",
+         "dosage": "-"
+      },
+      {
+         "name": " CYANOCOBALAMINE",
+         "dosage": "-"
+      }
+   ],
+   "forme": "Comprim pellicul",
+   "voie": "Orale",
+   "presentation": "B/10x10",
+   "classeTherap": "VITAMINES",
+   "codeAMM": "6444/07",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "PHARMAPRODUCT MANUFACTURING (PPM)",
+   "demandeur": "PHARMAPRODUCT MANUFACTURING (PPM)",
+   "PGHT": "2,886.21"
+}{
+   "id": 34,
+   "designation": "LOPERAMIDE",
+   "dcifrancais": [
+      {
+         "name": "LOPERAMIDE",
+         "dosage": "2 mg"
+      }
+   ],
+   "forme": "Glule",
+   "voie": "Orale",
+   "presentation": "B/10x10",
+   "classeTherap": "ANTIPROPULSIVANTS",
+   "codeAMM": "AMM_2018_3818",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "BAILLY-CREAT",
+   "demandeur": "BAILLY-CREAT",
+   "PGHT": "2,400.80"
+}{
+   "id": 35,
+   "designation": "LOPERAMIDE",
+   "dcifrancais": [
+      {
+         "name": "LOPERAMIDE",
+         "dosage": "2 mg"
+      }
+   ],
+   "forme": "Glule",
+   "voie": "Orale",
+   "presentation": "B/20",
+   "classeTherap": "ANTIPROPULSIVANTS",
+   "codeAMM": "AMM_2018_3819",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "BAILLY-CREAT",
+   "demandeur": "BAILLY-CREAT",
+   "PGHT": "760.91"
+}{
+   "id": 36,
+   "designation": "IMMU-C",
+   "dcifrancais": [
+      {
+         "name": "ZINC ",
+         "dosage": "35 mg "
+      },
+      {
+         "name": " EXTRAIT SEC D'ECHINACEA ",
+         "dosage": " 200 mg "
+      },
+      {
+         "name": " VITAMINE C",
+         "dosage": " 500 mg"
+      }
+   ],
+   "forme": "Poudre effervescente",
+   "voie": "Orale",
+   "presentation": "B/10",
+   "classeTherap": "VITAMINES",
+   "codeAMM": "6454/07",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "MEPACO-MEDIFOOD",
+   "demandeur": "MEPACO-MEDIFOOD",
+   "PGHT": "656.00"
+}{
+   "id": 37,
+   "designation": "GUAFLEX",
+   "dcifrancais": [
+      {
+         "name": "FEUILLE DE GOYAVE ",
+         "dosage": "6.0000 ml "
+      },
+      {
+         "name": " FLEUR DE TULLEUL ",
+         "dosage": " 6.0000 ml "
+      },
+      {
+         "name": " HUILE DE FENOUIL ( code : M6428)",
+         "dosage": " 0.1200 ml"
+      }
+   ],
+   "forme": "Sirop",
+   "voie": "Orale",
+   "presentation": "Fl/120ml",
+   "classeTherap": "ANTITUSSIFS",
+   "codeAMM": "6456/07",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "MEPACO-MEDIFOOD",
+   "demandeur": "MEPACO-MEDIFOOD",
+   "PGHT": "886.00"
+}{
+   "id": 38,
+   "designation": "BRONCHO",
+   "dcifrancais": [
+      {
+         "name": "EXTRAITE DE REGLISSE ",
+         "dosage": "24.000 ml "
+      },
+      {
+         "name": " TEINTURE DE LOBELLE ",
+         "dosage": " 12.000 ml "
+      },
+      {
+         "name": " TEINTURE DE SCILLE ",
+         "dosage": " 3.6000 ml "
+      },
+      {
+         "name": " TEINTURE DE STRAMONIUM",
+         "dosage": " 3.6000 mg"
+      }
+   ],
+   "forme": "Sirop",
+   "voie": "Orale",
+   "presentation": "Fl/120ml",
+   "classeTherap": "MUCOLYTIQUES",
+   "codeAMM": "6458/07",
+   "dateExpire": "31/10/2022",
+   "fabriquant": "MEPACO-MEDIFOOD",
+   "demandeur": "MEPACO-MEDIFOOD",
+   "PGHT": "1,000.00"
+}{
+   "id": 39,
+   "designation": "FERROMIX",
+   "dcifrancais": [
+      {
+         "name": "CUIVRE ",
+         "dosage": "7.0000 mg "
+      },
+      {
+         "name": " FER (gluconate de fer) ",
+         "dosage": " 300.00 mg "
+      },
+      {
+         "name": " HUILE DE CARWL ",
+         "dosage": " 0.0250 mg "
+      },
+      {
+         "name": " HUILE DE FENOUIL ( code : M6428) ",
+         "dosage": " 0.0250 mg "
+      },
+      {
+         "name": " LEVURE ",
+         "dosage": " 25.000 mg "
+      },
+      {
+         "name": " ZINC",
+         "dosage": " 8.0000 mg"
+      }
+   ],
+   "forme": "Sirop",
+   "voie": "Orale",
+   "presentation": "Fl/120ml",
+   "classeTherap": "ANTIANEMIQUES",
+   "codeAMM": "6462/07",
+   "dateExpire": "28/10/2022",
+   "fabriquant": "MEPACO-MEDIFOOD",
+   "demandeur": "MEPACO-MEDIFOOD",
+   "PGHT": "590.00"
+}{
+   "id": 40,
+   "designation": "DICLOPAR",
+   "dcifrancais": [
+      {
+         "name": "DICLOFNAC ",
+         "dosage": "500 mg "
+      },
+      {
+         "name": " PARACETAMOL",
+         "dosage": " 50 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/10",
+   "classeTherap": "ANTIINFLAMMATOIRES NON STEROIDIEN",
+   "codeAMM": "AMM_2017_2410",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "CAPLIN POINT LABORATOIRES.",
+   "demandeur": "CAPLIN POINT LABORATOIRES.",
+   "PGHT": "446.05"
+}{
+   "id": 41,
+   "designation": "DICLAC",
+   "dcifrancais": [
+      {
+         "name": "DICLOFNAC",
+         "dosage": "100 mg"
+      }
+   ],
+   "forme": "Suppositoire",
+   "voie": "Rectale",
+   "presentation": "B/10",
+   "classeTherap": "ANTIINFLAMMATOIRES NON STEROIDIEN",
+   "codeAMM": "AMM_2018_2999",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "SANDOZ GmbH",
+   "demandeur": "SANDOZ GmbH",
+   "PGHT": "1,443.10"
+}{
+   "id": 42,
+   "designation": "DICLAC",
+   "dcifrancais": [
+      {
+         "name": "DICLOFNAC",
+         "dosage": "75 mg"
+      }
+   ],
+   "forme": "Comprim libration prolonge",
+   "voie": "Orale",
+   "presentation": "B/20",
+   "classeTherap": "ANTIINFLAMMATOIRES NON STEROIDIEN",
+   "codeAMM": "AMM_2018_3001",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "SANDOZ GmbH",
+   "demandeur": "SANDOZ GmbH",
+   "PGHT": "2,295.84"
+}{
+   "id": 43,
+   "designation": "DICLAC",
+   "dcifrancais": [
+      {
+         "name": "DICLOFNAC",
+         "dosage": "150 mg"
+      }
+   ],
+   "forme": "Comprim libration prolonge",
+   "voie": "Orale",
+   "presentation": "B/10",
+   "classeTherap": "ANTIINFLAMMATOIRES NON STEROIDIEN",
+   "codeAMM": "AMM_2018_3000",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "SANDOZ GmbH",
+   "demandeur": "SANDOZ GmbH",
+   "PGHT": "2,755.01"
+}{
+   "id": 44,
+   "designation": "CIPROMED",
+   "dcifrancais": [
+      {
+         "name": "CIPROFLOXACINE",
+         "dosage": "500 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/10",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "AMM_2019_5358",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "STALLION LABORATORIES PVT. LTD",
+   "demandeur": "STALLION LABORATORIES PVT. LTD",
+   "PGHT": "787.15"
+}{
+   "id": 45,
+   "designation": "CIPROMED-TZ",
+   "dcifrancais": [
+      {
+         "name": "CIPROFLOXACINE ",
+         "dosage": "500 mg "
+      },
+      {
+         "name": " TINIDAZOLE",
+         "dosage": " 600 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/10",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "AMM_2019_5353",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "STALLION LABORATORIES PVT. LTD",
+   "demandeur": "STALLION LABORATORIES PVT. LTD",
+   "PGHT": "983.94"
+}{
+   "id": 46,
+   "designation": "DIPARA",
+   "dcifrancais": [
+      {
+         "name": "PARACETAMOL ",
+         "dosage": "500 mg "
+      },
+      {
+         "name": " DICLOFENAC",
+         "dosage": " 50 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/10",
+   "classeTherap": "ANTALGIQUES/ANTIPYRETIQUES",
+   "codeAMM": "AMM_2019_5357",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "STALLION LABORATORIES PVT. LTD",
+   "demandeur": "STALLION LABORATORIES PVT. LTD",
+   "PGHT": "321.42"
+}{
+   "id": 47,
+   "designation": "STACEF",
+   "dcifrancais": [
+      {
+         "name": "CEFTRIAXONE",
+         "dosage": "1000 mg"
+      }
+   ],
+   "forme": "Poudre et solvant pour solution injectable",
+   "voie": "Parentrale",
+   "presentation": "B/1",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "AMM_2019_5356",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "STALLION LABORATORIES PVT. LTD",
+   "demandeur": "STALLION LABORATORIES PVT. LTD",
+   "PGHT": "852.74"
+}{
+   "id": 48,
+   "designation": "AZITHRO",
+   "dcifrancais": [
+      {
+         "name": "AZITHROMYCINE",
+         "dosage": "250 mg"
+      }
+   ],
+   "forme": "Glule",
+   "voie": "Orale",
+   "presentation": "B/6",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "6502/07",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "MEDICALE PHARMACEUTIQUE",
+   "demandeur": "MEDICALE PHARMACEUTIQUE",
+   "PGHT": "1,967.87"
+}{
+   "id": 49,
+   "designation": "ALCER",
+   "dcifrancais": [
+      {
+         "name": "PANTOPRAZOLE",
+         "dosage": "40 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/30",
+   "classeTherap": "ANTIULCEREUX",
+   "codeAMM": "6504/07",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "ALICE PHARMA PVT LTD",
+   "demandeur": "ALICE PHARMA PVT LTD",
+   "PGHT": "3,935.74"
+}{
+   "id": 50,
+   "designation": "LIVOZED",
+   "dcifrancais": [
+      {
+         "name": "LEVOFLOXACINE",
+         "dosage": "500 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/10",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "6506/07",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "ALICE PHARMA PVT LTD",
+   "demandeur": "ALICE PHARMA PVT LTD",
+   "PGHT": "3,870.15"
+}{
+   "id": 51,
+   "designation": "LACOMA-T",
+   "dcifrancais": [
+      {
+         "name": "LATANOPROST ",
+         "dosage": "50mcg/ml "
+      },
+      {
+         "name": " TIMOLOL",
+         "dosage": " 5mg/ml"
+      }
+   ],
+   "forme": "Collyre",
+   "voie": "Ophtalmique",
+   "presentation": "Fl/2,5ml",
+   "classeTherap": "ANTIGLAUCOMATEUX ET MYOTIQUES",
+   "codeAMM": "6518/07",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "AJANTA PHARMA (MAURITIUS) LTD",
+   "demandeur": "AJANTA PHARMA (MAURITIUS) LTD",
+   "PGHT": "9,773.76"
+}{
+   "id": 52,
+   "designation": "MELONAX",
+   "dcifrancais": [
+      {
+         "name": "MELOXICAM",
+         "dosage": "7,5 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/10",
+   "classeTherap": "ANTIINFLAMMATOIRES NON STEROIDIEN",
+   "codeAMM": "AMM_2017_2391",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "STRIDES SHASUN LIMITED",
+   "demandeur": "STRIDES SHASUN LIMITED",
+   "PGHT": "1,902.27"
+}{
+   "id": 53,
+   "designation": "LOPINE -5",
+   "dcifrancais": [
+      {
+         "name": "AMLODIPINE",
+         "dosage": "5 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/30",
+   "classeTherap": "ANTIHYPERTENSEURS",
+   "codeAMM": "AMM_2018_3033",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "EGR PHARMA",
+   "demandeur": "IMEX-PHARMA",
+   "PGHT": "2,951.80"
+}{
+   "id": 54,
+   "designation": "BROXOL",
+   "dcifrancais": [
+      {
+         "name": "AMBROXOL ",
+         "dosage": "15 mg "
+      },
+      {
+         "name": " GUAIFENESINE ",
+         "dosage": " 50 mg "
+      },
+      {
+         "name": " TERBUTALINE ",
+         "dosage": " 1,5 mg "
+      },
+      {
+         "name": " CHLORPHENAMINE ",
+         "dosage": " 2 mg "
+      },
+      {
+         "name": " MENTHOL",
+         "dosage": " 1 mg"
+      }
+   ],
+   "forme": "Sirop",
+   "voie": "Orale",
+   "presentation": "Fl/100ml",
+   "classeTherap": "EXPECTORANTS",
+   "codeAMM": "AMM_2018_2899",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "IMEX-PHARMA",
+   "demandeur": "IMEX-PHARMA",
+   "PGHT": "1,049.53"
+}{
+   "id": 55,
+   "designation": "LORHIST 10",
+   "dcifrancais": [
+      {
+         "name": "LORATADINE",
+         "dosage": "10 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/10",
+   "classeTherap": "ANTIHISTAMINIQUES",
+   "codeAMM": "AMM_2017_2495",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "STRIDES SHASUN LIMITED",
+   "demandeur": "STRIDES SHASUN LIMITED",
+   "PGHT": "1,246.31"
+}{
+   "id": 56,
+   "designation": "SURDEX",
+   "dcifrancais": [
+      {
+         "name": "PHENYLEPHRINE ",
+         "dosage": "2,5 mg "
+      },
+      {
+         "name": " PARACETAMOL ",
+         "dosage": " 125 mg "
+      },
+      {
+         "name": " CHLORPHENAMINE",
+         "dosage": " 1 mg"
+      }
+   ],
+   "forme": "Sirop",
+   "voie": "Orale",
+   "presentation": "Fl/60ml",
+   "classeTherap": "ANTIHISTAMINIQUES",
+   "codeAMM": "AMM_2018_2897",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "IMEX-PHARMA",
+   "demandeur": "IMEX-PHARMA",
+   "PGHT": "583.80"
+}{
+   "id": 57,
+   "designation": "CIPROZED",
+   "dcifrancais": [
+      {
+         "name": "CIPROFLOXACINE",
+         "dosage": "750 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/10",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "6542/07",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "ALICE PHARMA PVT. LIMITED",
+   "demandeur": "ALICE PHARMA PVT. LIMITED",
+   "PGHT": "2,361.45"
+}{
+   "id": 58,
+   "designation": "ALFER",
+   "dcifrancais": [
+      {
+         "name": "ACIDE FOLIQUE ",
+         "dosage": "500 mg "
+      },
+      {
+         "name": " FER ELEMENT ",
+         "dosage": " 50 mg "
+      },
+      {
+         "name": " SULFATE DE ZINC ",
+         "dosage": " 11 mg "
+      },
+      {
+         "name": " VITAMINE B12",
+         "dosage": " 6 mg"
+      }
+   ],
+   "forme": "Suspension",
+   "voie": "Orale",
+   "presentation": "Fl/200ml",
+   "classeTherap": "ANTIANEMIQUES",
+   "codeAMM": "AMM_2017_1783",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "ALICE PHARMA PVT. LIMITED",
+   "demandeur": "ALICE PHARMA PVT. LIMITED",
+   "PGHT": "1,180.72"
+}{
+   "id": 59,
+   "designation": "ALFER",
+   "dcifrancais": [
+      {
+         "name": "ACIDE FOLIQUE ",
+         "dosage": "1,5 mg "
+      },
+      {
+         "name": " FER ELEMENT ",
+         "dosage": " 100 mg "
+      },
+      {
+         "name": " SULFATE DE ZINC ",
+         "dosage": " 22,5 mg "
+      },
+      {
+         "name": " VITAMINE B12 ",
+         "dosage": " 15 mg "
+      },
+      {
+         "name": " VITAMINE C",
+         "dosage": " 75 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/30",
+   "classeTherap": "ANTIANEMIQUES",
+   "codeAMM": "6546/07",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "ALICE PHARMA PVT. LIMITED",
+   "demandeur": "ALICE PHARMA PVT. LIMITED",
+   "PGHT": "1,180.72"
+}{
+   "id": 60,
+   "designation": "IBUMOL-400",
+   "dcifrancais": [
+      {
+         "name": "IBUPROFENE ",
+         "dosage": "400 mg "
+      },
+      {
+         "name": " PARACETAMOL",
+         "dosage": " 325 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/30",
+   "classeTherap": "ANTIINFLAMMATOIRES NON STEROIDIEN",
+   "codeAMM": "6556/07",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "AJANTA PHARMA (MAURITIUS) LTD",
+   "demandeur": "AJANTA PHARMA (MAURITIUS) LTD",
+   "PGHT": "1,423.43"
+}{
+   "id": 61,
+   "designation": "COLINIL",
+   "dcifrancais": [
+      {
+         "name": "SIMETHICONE ",
+         "dosage": "40mg "
+      },
+      {
+         "name": " HUILE DE FENOUIL ",
+         "dosage": " 0,0007ml "
+      },
+      {
+         "name": " HUILE D'ANETH",
+         "dosage": " 0,005ml"
+      }
+   ],
+   "forme": "Goutte",
+   "voie": "Orale",
+   "presentation": "Fl/15ml",
+   "classeTherap": "ANTICOLIQUES",
+   "codeAMM": "6560/07",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "AJANTA PHARMA (MAURITIUS) LTD",
+   "demandeur": "AJANTA PHARMA (MAURITIUS) LTD",
+   "PGHT": "1,495.58"
+}{
+   "id": 62,
+   "designation": "APDROPS",
+   "dcifrancais": [
+      {
+         "name": "MOXIFLOXACINE",
+         "dosage": "5mg/ml"
+      }
+   ],
+   "forme": "Collyre",
+   "voie": "Ophtalmique",
+   "presentation": "Fl/3ml",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "6562/07",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "AJANTA PHARMA (MAURITIUS) LTD",
+   "demandeur": "AJANTA PHARMA (MAURITIUS) LTD",
+   "PGHT": "1,475.90"
+}{
+   "id": 63,
+   "designation": "APDROPS DX",
+   "dcifrancais": [
+      {
+         "name": "DEXAMETHASONE PHOSPHATE ",
+         "dosage": "1mg/ml "
+      },
+      {
+         "name": " MOXIFLOXACINE",
+         "dosage": " 5mg/ml"
+      }
+   ],
+   "forme": "Collyre",
+   "voie": "Ophtalmique",
+   "presentation": "Fl/3ml",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "6564/07",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "AJANTA PHARMA (MAURITIUS) LTD",
+   "demandeur": "AJANTA PHARMA (MAURITIUS) LTD",
+   "PGHT": "1,803.88"
+}{
+   "id": 64,
+   "designation": "ASTYMIN-C",
+   "dcifrancais": [
+      {
+         "name": "L-LYSINE CHLORHYDRATE ",
+         "dosage": "5mg/ml "
+      },
+      {
+         "name": " L-TRYPTOPHANE ",
+         "dosage": " 1mg/ml "
+      },
+      {
+         "name": " L-PHENYLALAMINE ",
+         "dosage": " 1mg/ml "
+      },
+      {
+         "name": " L-LEUCINE ",
+         "dosage": " 3,66/ml "
+      },
+      {
+         "name": " L-ISOLEUCINE ",
+         "dosage": " 1,18mg/ml "
+      },
+      {
+         "name": " L-METHIONINE ",
+         "dosage": " 1,84/mL "
+      },
+      {
+         "name": " L-VALINE ",
+         "dosage": " 1,34mg/ml "
+      },
+      {
+         "name": " L-THREONINE",
+         "dosage": " 0,84mg/ml"
+      }
+   ],
+   "forme": "Goutte",
+   "voie": "Orale",
+   "presentation": "Fl/15ml",
+   "classeTherap": "VITAMINES",
+   "codeAMM": "6566/07",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "TIL HEALTHCARE. PVT. LTD",
+   "demandeur": "TIL HEALTHCARE. PVT. LTD",
+   "PGHT": "736.96"
+}{
+   "id": 65,
+   "designation": "ASTYFER",
+   "dcifrancais": [
+      {
+         "name": "FUMARATE FERREUX ",
+         "dosage": "150 mg "
+      },
+      {
+         "name": " GLYCINE ",
+         "dosage": " 10 mg "
+      },
+      {
+         "name": " L-LYSINE CHLORHYDRATE ",
+         "dosage": " 25 mg "
+      },
+      {
+         "name": " L-HISTIDINE ",
+         "dosage": " 4 mg "
+      },
+      {
+         "name": " THIAMINE (VIT B1) ",
+         "dosage": " 5 mg "
+      },
+      {
+         "name": " RIBOFLAVINE (VIT B2) ",
+         "dosage": " 3 mg "
+      },
+      {
+         "name": " NICOTINAMIDE ",
+         "dosage": " 25 mg "
+      },
+      {
+         "name": " DEXPANTHENOL ",
+         "dosage": " 2,5 mg "
+      },
+      {
+         "name": " PYRIDOXINE (VIT B6) ",
+         "dosage": " 1,5 mg "
+      },
+      {
+         "name": " CYANOCOBALAMINE ",
+         "dosage": " 2,5 mcg "
+      },
+      {
+         "name": " ACIDE FOLIQUE ",
+         "dosage": " 0,5 mg "
+      },
+      {
+         "name": " ACIDE ASCORBIQUE",
+         "dosage": " 40 mg"
+      }
+   ],
+   "forme": "Glule",
+   "voie": "Orale",
+   "presentation": "B/30",
+   "classeTherap": "ANTIANEMIQUES",
+   "codeAMM": "6770/07",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "TIL HEALTHCARE. PVT. LTD",
+   "demandeur": "TIL HEALTHCARE. PVT. LTD",
+   "PGHT": "1,698.00"
+}{
+   "id": 66,
+   "designation": "DESLOR",
+   "dcifrancais": [
+      {
+         "name": "DESLORATADINE",
+         "dosage": "5 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/15",
+   "classeTherap": "ANTIHISTAMINIQUES",
+   "codeAMM": "AMM_2018_3076",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "MEDIS",
+   "demandeur": "MEDIS",
+   "PGHT": "2,427.04"
+}{
+   "id": 67,
+   "designation": "MELONAX",
+   "dcifrancais": [
+      {
+         "name": "MELOXICAM",
+         "dosage": "15 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/10",
+   "classeTherap": "ANTIINFLAMMATOIRES NON STEROIDIEN",
+   "codeAMM": "AMM_2017_2396",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "STRIDES SHASUN LIMITED",
+   "demandeur": "STRIDES SHASUN LIMITED",
+   "PGHT": "3,266.66"
+}{
+   "id": 68,
+   "designation": "AMLOTENSINE-5",
+   "dcifrancais": [
+      {
+         "name": "AMLODIPINE",
+         "dosage": "5 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/30",
+   "classeTherap": "ANTIHYPERTENSEURS",
+   "codeAMM": "AMM_2018_4312",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "MEDICALE PHARMACEUTIQUE",
+   "demandeur": "MEDICALE PHARMACEUTIQUE",
+   "PGHT": "1,311.91"
+}{
+   "id": 69,
+   "designation": "GLUCOVANCE 500/5",
+   "dcifrancais": [
+      {
+         "name": "METFORMINE ",
+         "dosage": "500 mg "
+      },
+      {
+         "name": " GLIBENCLAMIDE",
+         "dosage": " 5 mg"
+      }
+   ],
+   "forme": "Comprim pellicul",
+   "voie": "Orale",
+   "presentation": "B/30",
+   "classeTherap": "ANTIDIABETIQUES",
+   "codeAMM": "AMM_2018_3184",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "MERCK SANTE S.A.S",
+   "demandeur": "MERCK SANTE S.A.S",
+   "PGHT": "1,967.87"
+}{
+   "id": 70,
+   "designation": "GLUCOVANCE 500/2.5",
+   "dcifrancais": [
+      {
+         "name": "METFORMINE ",
+         "dosage": "500 mg "
+      },
+      {
+         "name": " GLIBENCLAMIDE",
+         "dosage": " 2.5 mg"
+      }
+   ],
+   "forme": "Comprim pellicul",
+   "voie": "Orale",
+   "presentation": "B/30",
+   "classeTherap": "ANTIDIABETIQUES",
+   "codeAMM": "AMM_2018_3183",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "MERCK SERONO",
+   "demandeur": "MERCK SERONO",
+   "PGHT": "1,967.87"
+}{
+   "id": 71,
+   "designation": "STAVIRAL",
+   "dcifrancais": [
+      {
+         "name": "ALLO-SECURININE",
+         "dosage": "200 mg"
+      }
+   ],
+   "forme": "Glule",
+   "voie": "Orale",
+   "presentation": "B/30",
+   "classeTherap": "ANTIVIRAUX",
+   "codeAMM": "AMM_2018_3248",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "GGIA",
+   "demandeur": "GGIA",
+   "PGHT": "2,990.00"
+}{
+   "id": 72,
+   "designation": "STAVIRAL",
+   "dcifrancais": [
+      {
+         "name": "ALLO-SECURININE",
+         "dosage": "5 mg"
+      }
+   ],
+   "forme": "Sirop",
+   "voie": "Orale",
+   "presentation": "Fl/100ml",
+   "classeTherap": "ANTIVIRAUX",
+   "codeAMM": "AMM_2018_3247",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "GGIA",
+   "demandeur": "GGIA",
+   "PGHT": "2,990.00"
+}{
+   "id": 73,
+   "designation": "ARTECURE",
+   "dcifrancais": [
+      {
+         "name": "ARTESUNATE ",
+         "dosage": "100 mg "
+      },
+      {
+         "name": " PYRIMETHAMINE ",
+         "dosage": " 25 mg "
+      },
+      {
+         "name": " SULFADOXINE",
+         "dosage": " 500 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/6+3",
+   "classeTherap": "ANTIPALUDIQUES",
+   "codeAMM": "AMM_2019_5355",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "STALLION LABORATORIES PVT. LTD",
+   "demandeur": "STALLION LABORATORIES PVT. LTD",
+   "PGHT": "2,131.86"
+}{
+   "id": 74,
+   "designation": "STAYONG-PLUS",
+   "dcifrancais": [
+      {
+         "name": "MULTIVITAMINES ",
+         "dosage": "-"
+      },
+      {
+         "name": " MINRAUX",
+         "dosage": "-"
+      }
+   ],
+   "forme": "Glule",
+   "voie": "Orale",
+   "presentation": "B/30",
+   "classeTherap": "MULTIVITAMINES ET MINERAUX",
+   "codeAMM": "AMM_2019_5354",
+   "dateExpire": "28/02/2023",
+   "fabriquant": "STALLION LABORATORIES PVT. LTD",
+   "demandeur": "STALLION LABORATORIES PVT. LTD",
+   "PGHT": "983.94"
+}{
+   "id": 75,
+   "designation": "SPIFEN",
+   "dcifrancais": [
+      {
+         "name": "IBUPROFENE",
+         "dosage": "400 mg"
+      }
+   ],
+   "forme": "Comprim pellicul",
+   "voie": "Orale",
+   "presentation": "B/20",
+   "classeTherap": "ANTIINFLAMMATOIRES NON STEROIDIEN",
+   "codeAMM": "AMM_2017_1657",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "ZAMBON FRANCE S.A.",
+   "demandeur": "ZAMBON FRANCE S.A.",
+   "PGHT": "1,220.08"
+}{
+   "id": 76,
+   "designation": "CANDI",
+   "dcifrancais": [
+      {
+         "name": "FLUCONAZOLE",
+         "dosage": "150 mg"
+      }
+   ],
+   "forme": "Glule",
+   "voie": "Orale",
+   "presentation": "B/4",
+   "classeTherap": "ANTIFONGIQUES",
+   "codeAMM": "6660/07",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "ALICE PHARMA PVT LTD",
+   "demandeur": "ALICE PHARMA PVT LTD",
+   "PGHT": "2,361.45"
+}{
+   "id": 77,
+   "designation": "OFLOMAC",
+   "dcifrancais": [
+      {
+         "name": "OFLOXACINE",
+         "dosage": "200 mg"
+      }
+   ],
+   "forme": "Solution injectable pour perfusion",
+   "voie": "Parentrale",
+   "presentation": "Fl/100ml",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "AMM_2018_3077",
+   "dateExpire": "31/12/2022",
+   "fabriquant": "MACLEODS PHARMACEUTICALS LTD.",
+   "demandeur": "MACLEODS PHARMACEUTICALS LTD.",
+   "PGHT": "780.59"
+}{
+   "id": 78,
+   "designation": "NEUROBION",
+   "dcifrancais": [
+      {
+         "name": "VITAMINE B1 ",
+         "dosage": "100 mg "
+      },
+      {
+         "name": " VITAMINE B6 ",
+         "dosage": " 200 mg "
+      },
+      {
+         "name": " VITAMINE B12",
+         "dosage": " 200 g"
+      }
+   ],
+   "forme": "Comprim pellicul",
+   "voie": "Orale",
+   "presentation": "B/20",
+   "classeTherap": "VITAMINES",
+   "codeAMM": "AMM_2018_4117",
+   "dateExpire": "28/02/2023",
+   "fabriquant": "MERCK SERONO",
+   "demandeur": "MERCK SERONO",
+   "PGHT": "1,639.89"
+}{
+   "id": 79,
+   "designation": "PRIMADOL",
+   "dcifrancais": [
+      {
+         "name": "PARACETAMOL",
+         "dosage": "500 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/50x10",
+   "classeTherap": "ANTALGIQUES/ANTIPYRETIQUES",
+   "codeAMM": "AMM_2018_3467",
+   "dateExpire": "28/02/2023",
+   "fabriquant": "KINAPHARMA LIMITED",
+   "demandeur": "KINAPHARMA LIMITED",
+   "PGHT": "1,285.68"
+}{
+   "id": 80,
+   "designation": "KINAMOX",
+   "dcifrancais": [
+      {
+         "name": "AMOXICILLINE",
+         "dosage": "250mg/5ml"
+      }
+   ],
+   "forme": "Suspension buvable",
+   "voie": "Orale",
+   "presentation": "Fl/60ml",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "AMM_2017_2399",
+   "dateExpire": "28/02/2023",
+   "fabriquant": "KINAPHARMA LIMITED",
+   "demandeur": "KINAPHARMA LIMITED",
+   "PGHT": "308.30"
+}{
+   "id": 81,
+   "designation": "VIREAD",
+   "dcifrancais": [
+      {
+         "name": "TENOFOVIR",
+         "dosage": "245 mg"
+      }
+   ],
+   "forme": "Comprim pellicul",
+   "voie": "Orale",
+   "presentation": "B/30",
+   "classeTherap": "ANTIVIRAUX",
+   "codeAMM": "6545/10",
+   "dateExpire": "12/04/2025",
+   "fabriquant": "GILEAD SCIENCES, Inc",
+   "demandeur": "GILEAD SCIENCES, Inc",
+   "PGHT": "11,151.27"
+}{
+   "id": 82,
+   "designation": "MEBEN KINAPHARMA",
+   "dcifrancais": [
+      {
+         "name": "MEBENDAZOLE",
+         "dosage": "500.00 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/20",
+   "classeTherap": "ANTHELMINTHIQUES",
+   "codeAMM": "AMM_2018_3468",
+   "dateExpire": "28/02/2023",
+   "fabriquant": "KINAPHARMA LIMITED",
+   "demandeur": "KINAPHARMA LIMITED",
+   "PGHT": "1,987.55"
+}{
+   "id": 83,
+   "designation": "TRES - ORIX FORTE",
+   "dcifrancais": [
+      {
+         "name": "OROTATE DE CYPROHEPTADINE ",
+         "dosage": "1.5 mg "
+      },
+      {
+         "name": " CARNITINE CHLORHYDRATE ",
+         "dosage": " 150 mg "
+      },
+      {
+         "name": " LYSINE CHLORHYDRATE ",
+         "dosage": " 150 mg "
+      },
+      {
+         "name": " VITAMINE B1 ",
+         "dosage": " 10 mg "
+      },
+      {
+         "name": " VITAMINE B6 ",
+         "dosage": " 10 mg "
+      },
+      {
+         "name": " VITAMINE B12",
+         "dosage": " 10 g"
+      }
+   ],
+   "forme": "Sirop",
+   "voie": "Orale",
+   "presentation": "Flacon de 250ml",
+   "classeTherap": "ANTIHISTAMINIQUES",
+   "codeAMM": "6732/08",
+   "dateExpire": "28/02/2023",
+   "fabriquant": "DICAMEX",
+   "demandeur": "DICAMEX",
+   "PGHT": "2,138.41"
+}{
+   "id": 84,
+   "designation": "TRES - ORIX FORTE",
+   "dcifrancais": [
+      {
+         "name": "OROTATE DE CYPROHEPTADINE ",
+         "dosage": "1.5 mg "
+      },
+      {
+         "name": " CARNITINE CHLORHYDRATE ",
+         "dosage": " 150 mg "
+      },
+      {
+         "name": " LYSINE CHLORHYDRATE ",
+         "dosage": " 150 mg "
+      },
+      {
+         "name": " VITAMINE B1 ",
+         "dosage": " 10 mg "
+      },
+      {
+         "name": " VITAMINE B6 ",
+         "dosage": " 10 mg "
+      },
+      {
+         "name": " VITAMINE B12",
+         "dosage": " 10 g"
+      }
+   ],
+   "forme": "Sirop",
+   "voie": "Orale",
+   "presentation": "Flacon de 100ml",
+   "classeTherap": "ANTIHISTAMINIQUES",
+   "codeAMM": "6734/08",
+   "dateExpire": "28/02/2023",
+   "fabriquant": "DICAMEX",
+   "demandeur": "DICAMEX",
+   "PGHT": "1,134.80"
+}{
+   "id": 85,
+   "designation": "VITAFER",
+   "dcifrancais": [
+      {
+         "name": "VIT B12 ",
+         "dosage": "-"
+      },
+      {
+         "name": " FER ",
+         "dosage": "-"
+      },
+      {
+         "name": " ACIDE FOLIQUE",
+         "dosage": "-"
+      }
+   ],
+   "forme": "Sirop",
+   "voie": "Orale",
+   "presentation": "Fl/200ml",
+   "classeTherap": "ANTIANEMIQUES",
+   "codeAMM": "7852/09",
+   "dateExpire": "31/10/2024",
+   "fabriquant": "STRIDES SHASUN LIMITED",
+   "demandeur": "STRIDES PHARMA SCIENCE LIMITED",
+   "PGHT": "2,099.06"
+}{
+   "id": 86,
+   "designation": "CAMVIT PLUS",
+   "dcifrancais": [
+      {
+         "name": "VITAMINE A ",
+         "dosage": "2500 UI "
+      },
+      {
+         "name": " VITAMINE D3 ",
+         "dosage": " 100 UI "
+      },
+      {
+         "name": " VITAMINE B1",
+         "dosage": " 1 mg "
+      },
+      {
+         "name": " VITAMINE B2 ",
+         "dosage": " 1 mg "
+      },
+      {
+         "name": " VITAMINE B6 ",
+         "dosage": " 0.5 mg "
+      },
+      {
+         "name": " VITAMINE B12 ",
+         "dosage": " 0.5 mcg "
+      },
+      {
+         "name": " VITAMINE C ",
+         "dosage": " 25 mg "
+      },
+      {
+         "name": " VITAMINE E ",
+         "dosage": " 5 UI "
+      },
+      {
+         "name": " NICOTINAMIDE ",
+         "dosage": " 15 mg "
+      },
+      {
+         "name": " PANTOTHENATE DE CALCIUM ",
+         "dosage": " 1 mg "
+      },
+      {
+         "name": " ACIDE FOLIQUE ",
+         "dosage": " 50 mcg "
+      },
+      {
+         "name": " CALCIUM ",
+         "dosage": " 75 mg "
+      },
+      {
+         "name": " PHOSPHORE ",
+         "dosage": " 58 mg "
+      },
+      {
+         "name": " IODURE DE POTASSIUM ",
+         "dosage": " 0.075 mg "
+      },
+      {
+         "name": " CUIVRE ",
+         "dosage": " 0.45 mg "
+      },
+      {
+         "name": " MAGNESIUM ",
+         "dosage": " 3 mg "
+      },
+      {
+         "name": " MAGANESE ",
+         "dosage": " 0.5 mg "
+      },
+      {
+         "name": " MOLYBDATE DE",
+         "dosage": " 0.1 mg "
+      }
+   ],
+   "forme": "Glule",
+   "voie": "Orale",
+   "presentation": "B/30",
+   "classeTherap": "MULTIVITAMINES ET MINERAUX",
+   "codeAMM": "6744/08",
+   "dateExpire": "28/02/2023",
+   "fabriquant": "M/s CORONA Remedies Pvt.Ltd",
+   "demandeur": "STRIDES PHARMA SCIENCE LIMITED",
+   "PGHT": "2,197.45"
+}{
+   "id": 87,
+   "designation": "STRIMOL EXTRA",
+   "dcifrancais": [
+      {
+         "name": "ACETAMINOPHENE ",
+         "dosage": "500.00 mg "
+      },
+      {
+         "name": " CAFEINE",
+         "dosage": " 30 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/20",
+   "classeTherap": "ANTALGIQUES/ANTIPYRETIQUES",
+   "codeAMM": "AMM_2018_3766",
+   "dateExpire": "28/02/2023",
+   "fabriquant": "STRIDES SHASUN LIMITED",
+   "demandeur": "STRIDES SHASUN LIMITED",
+   "PGHT": "1,049.53"
+}{
+   "id": 88,
+   "designation": "KNZ",
+   "dcifrancais": [
+      {
+         "name": "KETOCONAZOLE",
+         "dosage": "200 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/10",
+   "classeTherap": "ANTIFONGIQUES",
+   "codeAMM": "AMM_2018_3767",
+   "dateExpire": "28/02/2023",
+   "fabriquant": "STRIDES SHASUN LIMITED",
+   "demandeur": "STRIDES SHASUN LIMITED",
+   "PGHT": "2,348.32"
+}{
+   "id": 89,
+   "designation": "BETAZIDIM",
+   "dcifrancais": [
+      {
+         "name": "CEFTAZIDIME",
+         "dosage": "1 g"
+      }
+   ],
+   "forme": "Poudre pour solution injectable",
+   "voie": "Parentrale",
+   "presentation": "B/1",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "6750/08",
+   "dateExpire": "28/02/2023",
+   "fabriquant": "STRIDES SHASUN LIMITED",
+   "demandeur": "STRIDES PHARMA SCIENCE LIMITED",
+   "PGHT": "7,195.84"
+}{
+   "id": 90,
+   "designation": "CELLTRIAXON",
+   "dcifrancais": [
+      {
+         "name": "CEFTRIAXONE",
+         "dosage": "1 g"
+      }
+   ],
+   "forme": "Solution injectable pour perfusion",
+   "voie": "Parentrale",
+   "presentation": "B/1",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "AMM_2018_3761",
+   "dateExpire": "28/02/2023",
+   "fabriquant": "STRIDES SHASUN LIMITED",
+   "demandeur": "STRIDES SHASUN LIMITED",
+   "PGHT": "1,967.87"
+}{
+   "id": 91,
+   "designation": "PEGASYS",
+   "dcifrancais": [
+      {
+         "name": "PEGINTERFERON ALFA-2A",
+         "dosage": "180 g"
+      }
+   ],
+   "forme": "Sringue prremplie",
+   "voie": "Parentrale",
+   "presentation": "B/1",
+   "classeTherap": "IMMUNOSTIMULANTS",
+   "codeAMM": "AMM_2017_2226",
+   "dateExpire": "28/02/2023",
+   "fabriquant": "F.HOFFMANN LA ROCHE LTD.",
+   "demandeur": "F.HOFFMANN LA ROCHE LTD.",
+   "PGHT": "129,223.52"
+}{
+   "id": 92,
+   "designation": "XELODA",
+   "dcifrancais": [
+      {
+         "name": "CAPECITABINE",
+         "dosage": "500 mg"
+      }
+   ],
+   "forme": "Comprim pellicul",
+   "voie": "Orale",
+   "presentation": "B/120",
+   "classeTherap": "ANTIMETABOLITES",
+   "codeAMM": "AMM_2017_2235",
+   "dateExpire": "28/02/2023",
+   "fabriquant": "F.HOFFMANN LA ROCHE LTD.",
+   "demandeur": "F.HOFFMANN LA ROCHE LTD.",
+   "PGHT": "262,041.70"
+}{
+   "id": 93,
+   "designation": "COPEGUS",
+   "dcifrancais": [
+      {
+         "name": "RIBAVIRINE",
+         "dosage": "200 mg"
+      }
+   ],
+   "forme": "Comprim pellicul",
+   "voie": "Orale",
+   "presentation": "B/168",
+   "classeTherap": "ANTIVIRAUX",
+   "codeAMM": "AMM_2017_2229",
+   "dateExpire": "28/02/2023",
+   "fabriquant": "F.HOFFMANN LA ROCHE LTD.",
+   "demandeur": "F.HOFFMANN LA ROCHE LTD.",
+   "PGHT": "32,141.89"
+}{
+   "id": 94,
+   "designation": "AVASTIN",
+   "dcifrancais": [
+      {
+         "name": "BEVACIZUMAB",
+         "dosage": "25 mg/ml"
+      }
+   ],
+   "forme": "Ampoule injectable",
+   "voie": "Parentrale",
+   "presentation": "B/1x16 ml",
+   "classeTherap": "AGENTS ANTINOPLASIQUES",
+   "codeAMM": "AMM_2017_2215",
+   "dateExpire": "28/02/2023",
+   "fabriquant": "F.HOFFMANN LA ROCHE LTD.",
+   "demandeur": "F.HOFFMANN LA ROCHE LTD.",
+   "PGHT": "836,345.17"
+}{
+   "id": 95,
+   "designation": "AVASTIN",
+   "dcifrancais": [
+      {
+         "name": "BEVACIZUMAB",
+         "dosage": "25 mg/ml"
+      }
+   ],
+   "forme": "Ampoule injectable",
+   "voie": "Parentrale",
+   "presentation": "B/1x4ml",
+   "classeTherap": "AGENTS ANTINOPLASIQUES",
+   "codeAMM": "AMM_2017_2214",
+   "dateExpire": "28/02/2023",
+   "fabriquant": "F.HOFFMANN LA ROCHE LTD.",
+   "demandeur": "F.HOFFMANN LA ROCHE LTD.",
+   "PGHT": "221,057.51"
+}{
+   "id": 96,
+   "designation": "ATORFIT 20",
+   "dcifrancais": [
+      {
+         "name": "ATORVASTATINE",
+         "dosage": "20 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/30",
+   "classeTherap": "HYPOLIPEMIANTS",
+   "codeAMM": "6798/08",
+   "dateExpire": "28/02/2023",
+   "fabriquant": "AJANTA PHARMA (MAURITIUS) LTD",
+   "demandeur": "AJANTA PHARMA (MAURITIUS) LTD",
+   "PGHT": "4,001.34"
+}{
+   "id": 97,
+   "designation": "ATORFIT 10",
+   "dcifrancais": [
+      {
+         "name": "ATORVASTATINE",
+         "dosage": "10 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/30",
+   "classeTherap": "HYPOLIPEMIANTS",
+   "codeAMM": "6800/08",
+   "dateExpire": "28/02/2023",
+   "fabriquant": "AJANTA PHARMA (MAURITIUS) LTD",
+   "demandeur": "AJANTA PHARMA (MAURITIUS) LTD",
+   "PGHT": "3,017.40"
+}{
+   "id": 98,
+   "designation": "ELOXATINE",
+   "dcifrancais": [
+      {
+         "name": "OXALIPLATINE",
+         "dosage": "5 mg/ml"
+      }
+   ],
+   "forme": "Solution injectable pour perfusion",
+   "voie": "Parentrale",
+   "presentation": "Fl/10ml",
+   "classeTherap": "AGENTS ANTINOPLASIQUES",
+   "codeAMM": "AMM_2018_3030",
+   "dateExpire": "31/03/2023",
+   "fabriquant": "SANOFI - AVENTIS",
+   "demandeur": "SANOFI - AVENTIS",
+   "PGHT": "137,750.97"
+}{
+   "id": 99,
+   "designation": "ELOXATINE",
+   "dcifrancais": [
+      {
+         "name": "OXALIPLATINE",
+         "dosage": "5 mg/ml"
+      }
+   ],
+   "forme": "Solution injectable pour perfusion",
+   "voie": "Parentrale",
+   "presentation": "Fl/20ml",
+   "classeTherap": "AGENTS ANTINOPLASIQUES",
+   "codeAMM": "AMM_2018_3029",
+   "dateExpire": "31/03/2023",
+   "fabriquant": "SANOFI - AVENTIS",
+   "demandeur": "SANOFI - AVENTIS",
+   "PGHT": "276,157.89"
+}{
+   "id": 100,
+   "designation": "PHARMAGRIP",
+   "dcifrancais": [
+      {
+         "name": "PARACETAMOL ",
+         "dosage": "650 mg "
+      },
+      {
+         "name": " PHENYLEPHRINE CHLORHYDRATE ",
+         "dosage": " 30 mg "
+      },
+      {
+         "name": " CHLORPHENAMINE MALEATE",
+         "dosage": " 4 mg"
+      }
+   ],
+   "forme": "Poudre pour suspension buvable en sachet",
+   "voie": "Orale",
+   "presentation": "B/10",
+   "classeTherap": "ASSOCIATIONS ANTI-RHUME",
+   "codeAMM": "6810/08",
+   "dateExpire": "31/03/2023",
+   "fabriquant": "CINFA SA",
+   "demandeur": "CINFA SA",
+   "PGHT": "1,554.06"
+}{
+   "id": 101,
+   "designation": "WORMIN",
+   "dcifrancais": [
+      {
+         "name": "MEBENDAZOLE",
+         "dosage": "500 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/1",
+   "classeTherap": "ANTHELMINTHIQUES",
+   "codeAMM": "6814/08",
+   "dateExpire": "31/03/2023",
+   "fabriquant": "CADILA PHARMACEUTICAL LIMITED.,",
+   "demandeur": "CADILA PHARMACEUTICAL LIMITED.,",
+   "PGHT": "327.97"
+}{
+   "id": 102,
+   "designation": "WORMIN",
+   "dcifrancais": [
+      {
+         "name": "MEBENDAZOLE",
+         "dosage": "100 mg"
+      }
+   ],
+   "forme": "Suspension buvable",
+   "voie": "Orale",
+   "presentation": "Fl/30ml",
+   "classeTherap": "ANTHELMINTHIQUES",
+   "codeAMM": "6818/08",
+   "dateExpire": "31/03/2023",
+   "fabriquant": "CADILA PHARMACEUTICAL LIMITED.,",
+   "demandeur": "CADILA PHARMACEUTICAL LIMITED.,",
+   "PGHT": "754.35"
+}{
+   "id": 103,
+   "designation": "NORFLOXACINE",
+   "dcifrancais": [
+      {
+         "name": "NORFLOXACINE",
+         "dosage": "400 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/14",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "6844/08",
+   "dateExpire": "30/04/2023",
+   "fabriquant": "CINFA SA",
+   "demandeur": "CINFA SA",
+   "PGHT": "2,952.00"
+}{
+   "id": 104,
+   "designation": "FLEMING 250/31.250",
+   "dcifrancais": [
+      {
+         "name": "AMOXICILLINE ",
+         "dosage": "250 mg "
+      },
+      {
+         "name": " ACIDE CLAVULANIQUE",
+         "dosage": " 31,25 mg"
+      }
+   ],
+   "forme": "Suspension",
+   "voie": "Orale",
+   "presentation": "Fl/60ml",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "AMM_2018_3512",
+   "dateExpire": "15/05/2023",
+   "fabriquant": "MEDREICH",
+   "demandeur": "SANOFI-AVENTIS",
+   "PGHT": "1,836.67"
+}{
+   "id": 105,
+   "designation": "FLEMING 1.2",
+   "dcifrancais": [
+      {
+         "name": "AMOXICILLINE ",
+         "dosage": "1000 mg "
+      },
+      {
+         "name": " ACIDE CLAVULANIQUE",
+         "dosage": " 200 mg"
+      }
+   ],
+   "forme": "Solution injectable pour perfusion",
+   "voie": "Parentrale",
+   "presentation": "B/5",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "AMM_2018_3507",
+   "dateExpire": "15/05/2023",
+   "fabriquant": "M/s NATCO PHARMA LIMITED",
+   "demandeur": "SANOFI-AVENTIS",
+   "PGHT": "6,559.57"
+}{
+   "id": 106,
+   "designation": "KINAFON",
+   "dcifrancais": [
+      {
+         "name": "PHLOROGLUCINOL",
+         "dosage": "80 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/20",
+   "classeTherap": "ANTISPASMODIQUES",
+   "codeAMM": "6912",
+   "dateExpire": "30/05/2023",
+   "fabriquant": "PHARMAPRODUCT MANUFACTURING (PPM)",
+   "demandeur": "PHARMAPRODUCT MANUFACTURING (PPM)",
+   "PGHT": "983.94"
+}{
+   "id": 107,
+   "designation": "JADELLE SINE INSERTER",
+   "dcifrancais": [
+      {
+         "name": "LEVONORGESTREL",
+         "dosage": "2x75 mg"
+      }
+   ],
+   "forme": "Implant",
+   "voie": "Cutane",
+   "presentation": "B/10",
+   "classeTherap": "CONTRACEPTIFS",
+   "codeAMM": "6932/08",
+   "dateExpire": "30/06/2023",
+   "fabriquant": "BAYER AG",
+   "demandeur": "BAYER AG",
+   "PGHT": "127,255.65"
+}{
+   "id": 108,
+   "designation": "ARTEMETHER TM",
+   "dcifrancais": [
+      {
+         "name": "ARTEMETHER",
+         "dosage": "80mg/ml"
+      }
+   ],
+   "forme": "Ampoule injectable",
+   "voie": "Parentrale",
+   "presentation": "B/6",
+   "classeTherap": "ANTIPALUDIQUES",
+   "codeAMM": "AMM_2019_4847",
+   "dateExpire": "31/07/2023",
+   "fabriquant": "TONGMEI",
+   "demandeur": "TONGMEI",
+   "PGHT": "2,394.24"
+}{
+   "id": 109,
+   "designation": "GYNANFORT",
+   "dcifrancais": [
+      {
+         "name": "METRONIDAZOLE ",
+         "dosage": "500 mg "
+      },
+      {
+         "name": " NEOMYCINE ",
+         "dosage": " 65000 UI "
+      },
+      {
+         "name": " NYSTATINE",
+         "dosage": " 100000 UI"
+      }
+   ],
+   "forme": "Ovule",
+   "voie": "Orale",
+   "presentation": "B/10",
+   "classeTherap": "ANTIBIOTIQUES A USAGE GYNECOLOGIQUE",
+   "codeAMM": "AMM_2018_4059",
+   "dateExpire": "31/07/2023",
+   "fabriquant": "IMEX-PHARMA",
+   "demandeur": "IMEX-PHARMA",
+   "PGHT": "1,410.30"
+}{
+   "id": 110,
+   "designation": "RAMIDEX",
+   "dcifrancais": [
+      {
+         "name": "TOBRAMYCINE ",
+         "dosage": "0.3 % "
+      },
+      {
+         "name": " DEXAMETHASONE ",
+         "dosage": " 0.1 % "
+      },
+      {
+         "name": " CHLORURE DE BENZALKONIUM",
+         "dosage": " 0.01 %"
+      }
+   ],
+   "forme": "Collyre",
+   "voie": "Ophtalmique",
+   "presentation": "Fl/5ml",
+   "classeTherap": "ANTI-INFECTIEUX OPHTALMIQUES+ CORTICODES",
+   "codeAMM": "AMM_2018_3770",
+   "dateExpire": "31/07/2023",
+   "fabriquant": "EGR PHARMA",
+   "demandeur": "IMEX-PHARMA",
+   "PGHT": "983.93"
+}{
+   "id": 111,
+   "designation": "COFANTRINE ADULTES",
+   "dcifrancais": [
+      {
+         "name": "ARTEMETHER ",
+         "dosage": "80 mg "
+      },
+      {
+         "name": " LUMEFANTRINE",
+         "dosage": " 480 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/6",
+   "classeTherap": "ANTIPALUDIQUES",
+   "codeAMM": "AMM_2018_4086",
+   "dateExpire": "31/07/2023",
+   "fabriquant": "BLISS GVS PHARMA LTD",
+   "demandeur": "IMEX-PHARMA",
+   "PGHT": "2,033.46"
+}{
+   "id": 112,
+   "designation": "SIROFEN",
+   "dcifrancais": [
+      {
+         "name": "IBUPROFENE",
+         "dosage": "20 mg/ml"
+      }
+   ],
+   "forme": "Suspension",
+   "voie": "Orale",
+   "presentation": "Fl/150ml",
+   "classeTherap": "ANTIINFLAMMATOIRES NON STEROIDIEN",
+   "codeAMM": "AMM_2018_3772",
+   "dateExpire": "31/07/2023",
+   "fabriquant": "BLISS GVS PHARMA LTD",
+   "demandeur": "IMEX-PHARMA",
+   "PGHT": "1,213.52"
+}{
+   "id": 113,
+   "designation": "GYNOFER B12",
+   "dcifrancais": [
+      {
+         "name": "CITRATE D'AMMONIUM FERRIQUE ",
+         "dosage": "200 mg "
+      },
+      {
+         "name": " ACIDE FOLIQUE ",
+         "dosage": " 1.5 mg "
+      },
+      {
+         "name": " VITAMINE B12",
+         "dosage": " 50 g"
+      }
+   ],
+   "forme": "Suspension buvable",
+   "voie": "Orale",
+   "presentation": "Fl/200ml",
+   "classeTherap": "ANTIANEMIQUES",
+   "codeAMM": "AMM_2018_3771",
+   "dateExpire": "31/07/2023",
+   "fabriquant": "BLISS GVS PHARMA LTD",
+   "demandeur": "IMEX-PHARMA",
+   "PGHT": "1,443.10"
+}{
+   "id": 114,
+   "designation": "AZIX",
+   "dcifrancais": [
+      {
+         "name": "AZITHROMYCINE",
+         "dosage": "500 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/3",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "AMM_2018_3892",
+   "dateExpire": "31/07/2023",
+   "fabriquant": "BOTTU S. A .",
+   "demandeur": "BOTTU S. A .",
+   "PGHT": "3,148.59"
+}{
+   "id": 115,
+   "designation": "TRIMAREL",
+   "dcifrancais": [
+      {
+         "name": "TRIMETAZIDINE",
+         "dosage": "20 mg"
+      }
+   ],
+   "forme": "Comprim pellicul",
+   "voie": "Orale",
+   "presentation": "B/60",
+   "classeTherap": "MEDICAMENTS EN CARDIOLOGIE",
+   "codeAMM": "AMM_2018_3895",
+   "dateExpire": "31/07/2023",
+   "fabriquant": "BOTTU S. A .",
+   "demandeur": "BOTTU S. A .",
+   "PGHT": "2,755.01"
+}{
+   "id": 116,
+   "designation": "COTIPRED",
+   "dcifrancais": [
+      {
+         "name": "PREDNISOLONE",
+         "dosage": "20 mg"
+      }
+   ],
+   "forme": "Comprim effervescent",
+   "voie": "Orale",
+   "presentation": "B/20",
+   "classeTherap": "CORTICODES",
+   "codeAMM": "AMM_2018_3920",
+   "dateExpire": "31/07/2023",
+   "fabriquant": "BOTTU S. A .",
+   "demandeur": "BOTTU S. A .",
+   "PGHT": "2,630.38"
+}{
+   "id": 117,
+   "designation": "APAZIDE",
+   "dcifrancais": [
+      {
+         "name": "NIFUROXAZIDE",
+         "dosage": "200 mg"
+      }
+   ],
+   "forme": "Glule",
+   "voie": "Orale",
+   "presentation": "B/16",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "AMM_2018_3829",
+   "dateExpire": "31/07/2023",
+   "fabriquant": "BOTTU S. A .",
+   "demandeur": "BOTTU S. A .",
+   "PGHT": "806.82"
+}{
+   "id": 118,
+   "designation": "PRAZOL 20",
+   "dcifrancais": [
+      {
+         "name": "OMEPRAZOLE",
+         "dosage": "20 mg"
+      }
+   ],
+   "forme": "Glule",
+   "voie": "Orale",
+   "presentation": "B/28",
+   "classeTherap": "ANTIULCEREUX",
+   "codeAMM": "AMM_2018_3893",
+   "dateExpire": "31/07/2023",
+   "fabriquant": "BOTTU S. A .",
+   "demandeur": "BOTTU S. A .",
+   "PGHT": "2,951.80"
+}{
+   "id": 119,
+   "designation": "PRAZOL",
+   "dcifrancais": [
+      {
+         "name": "OMEPRAZOLE",
+         "dosage": "20 mg"
+      }
+   ],
+   "forme": "Glule",
+   "voie": "Orale",
+   "presentation": "B/14",
+   "classeTherap": "ANTIULCEREUX",
+   "codeAMM": "AMM_2018_3830",
+   "dateExpire": "31/07/2023",
+   "fabriquant": "BOTTU S. A .",
+   "demandeur": "BOTTU S. A .",
+   "PGHT": "1,921.95"
+}{
+   "id": 120,
+   "designation": "CURTEC 10",
+   "dcifrancais": [
+      {
+         "name": "CETIRIZINE",
+         "dosage": "10 mg"
+      }
+   ],
+   "forme": "Comprim pellicul scable",
+   "voie": "Orale",
+   "presentation": "B/15",
+   "classeTherap": "ANTIHISTAMINIQUES",
+   "codeAMM": "AMM_2018_3894",
+   "dateExpire": "31/07/2023",
+   "fabriquant": "BOTTU S. A .",
+   "demandeur": "BOTTU S. A .",
+   "PGHT": "2,295.84"
+}{
+   "id": 121,
+   "designation": "SPIRALIDE",
+   "dcifrancais": [
+      {
+         "name": "SPIRAMYCINE",
+         "dosage": "3 UI"
+      }
+   ],
+   "forme": "Comprim pellicul scable",
+   "voie": "Orale",
+   "presentation": "B/10",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "AMM_2018_3838",
+   "dateExpire": "31/07/2023",
+   "fabriquant": "BOTTU S. A .",
+   "demandeur": "BOTTU S. A .",
+   "PGHT": "2,361.44"
+}{
+   "id": 122,
+   "designation": "SPIRALIDE",
+   "dcifrancais": [
+      {
+         "name": "SPIRAMYCINE",
+         "dosage": "3 MUI"
+      }
+   ],
+   "forme": "Comprim pellicul scable",
+   "voie": "Orale",
+   "presentation": "B/16",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "AMM_2018_3839",
+   "dateExpire": "31/07/2023",
+   "fabriquant": "BOTTU S. A .",
+   "demandeur": "BOTTU S. A .",
+   "PGHT": "2,853.41"
+}{
+   "id": 123,
+   "designation": "CIVASTINE",
+   "dcifrancais": [
+      {
+         "name": "SIMVASTATINE",
+         "dosage": "20 mg"
+      }
+   ],
+   "forme": "Comprim pellicul",
+   "voie": "Orale",
+   "presentation": "B/14",
+   "classeTherap": "HYPOLIPEMIANTS",
+   "codeAMM": "AMM_2018_3922",
+   "dateExpire": "31/07/2023",
+   "fabriquant": "BOTTU S. A .",
+   "demandeur": "BOTTU S. A .",
+   "PGHT": "2,919.00"
+}{
+   "id": 124,
+   "designation": "CIVASTINE 20",
+   "dcifrancais": [
+      {
+         "name": "SIMVASTATINE",
+         "dosage": "20 mg"
+      }
+   ],
+   "forme": "Comprim pellicul",
+   "voie": "Orale",
+   "presentation": "B/28",
+   "classeTherap": "HYPOLIPEMIANTS",
+   "codeAMM": "AMM_2018_3897",
+   "dateExpire": "31/07/2023",
+   "fabriquant": "BOTTU S. A .",
+   "demandeur": "BOTTU S. A .",
+   "PGHT": "5,542.83"
+}{
+   "id": 125,
+   "designation": "IBUMOL",
+   "dcifrancais": [
+      {
+         "name": "IBUPROFNE ",
+         "dosage": "100mg"
+      },
+      {
+         "name": " PARACETAMOL",
+         "dosage": "162,50mg"
+      }
+   ],
+   "forme": "Suspension buvable",
+   "voie": "Orale",
+   "presentation": "Fl/60ml",
+   "classeTherap": "ANTIINFLAMMATOIRES NON STEROIDIEN",
+   "codeAMM": "AMM_2018_4673",
+   "dateExpire": "31/07/2023",
+   "fabriquant": "AJANTA PHARMA (MAURITIUS) LTD",
+   "demandeur": "AJANTA PHARMA (MAURITIUS) LTD",
+   "PGHT": "1,351.27"
+}{
+   "id": 126,
+   "designation": "ARTEFAN",
+   "dcifrancais": [
+      {
+         "name": "ARTMETHER ",
+         "dosage": "20 mg "
+      },
+      {
+         "name": " LUMFANTRINE",
+         "dosage": " 120 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/24",
+   "classeTherap": "ANTIPALUDIQUES",
+   "codeAMM": "7046/08",
+   "dateExpire": "31/07/2023",
+   "fabriquant": "AJANTA PHARMA (MAURITIUS) LTD",
+   "demandeur": "AJANTA PHARMA (MAURITIUS) LTD",
+   "PGHT": "1,357.83"
+}{
+   "id": 127,
+   "designation": "VOLTFAST",
+   "dcifrancais": [
+      {
+         "name": "DICLOFENAC",
+         "dosage": "50 mg"
+      }
+   ],
+   "forme": "Poudre pour suspension buvable en sachet",
+   "voie": "Orale",
+   "presentation": "B/9",
+   "classeTherap": "ANTIINFLAMMATOIRES NON STEROIDIEN",
+   "codeAMM": "AMM_2019_5069",
+   "dateExpire": "30/09/2023",
+   "fabriquant": "NOVARTIS PHARMA SERVICES A. G,",
+   "demandeur": "NOVARTIS PHARMA SERVICES A. G,",
+   "PGHT": "1,738.28"
+}{
+   "id": 128,
+   "designation": "CHLORPROMAZINE CHLORHYDRATE PHARMAQUICK",
+   "dcifrancais": [
+      {
+         "name": "CHLORPROMAZINE CHLORHYDRATE",
+         "dosage": "100 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/100 blisters de 10 comprims",
+   "classeTherap": "ANTIPSYCHOTIQUES",
+   "codeAMM": "AMM_2019_5515",
+   "dateExpire": "30/09/2023",
+   "fabriquant": "PHARMAQUICK BY ABT ZONE INDUSTRIELLE",
+   "demandeur": "PHARMAQUICK BY ABT ZONE INDUSTRIELLE",
+   "PGHT": "5,904.00"
+}{
+   "id": 129,
+   "designation": "CHLORPROMAZINE CHLORHYDRATE PHARMAQUICK",
+   "dcifrancais": [
+      {
+         "name": "CHLORPROMAZINE CHLORHYDRATE",
+         "dosage": "100 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "Blister de 10 comprims",
+   "classeTherap": "ANTIPSYCHOTIQUES",
+   "codeAMM": "AMM_2019_5514",
+   "dateExpire": "30/09/2023",
+   "fabriquant": "PHARMAQUICK BY ABT ZONE INDUSTRIELLE",
+   "demandeur": "PHARMAQUICK BY ABT ZONE INDUSTRIELLE",
+   "PGHT": "59.04"
+}{
+   "id": 130,
+   "designation": "ZERODOL-P",
+   "dcifrancais": [
+      {
+         "name": "ACECLOFENAC ",
+         "dosage": "100 mg "
+      },
+      {
+         "name": " PARACETAMOL",
+         "dosage": " 500 mg"
+      }
+   ],
+   "forme": "Comprim pellicul",
+   "voie": "Orale",
+   "presentation": "B/30",
+   "classeTherap": "ANTIINFLAMMATOIRES NON STEROIDIEN",
+   "codeAMM": "7088/08",
+   "dateExpire": "30/09/2023",
+   "fabriquant": "IPCA LABORATORIES LIMITED",
+   "demandeur": "IPCA LABORATORIES LIMITED",
+   "PGHT": "2,623.83"
+}{
+   "id": 131,
+   "designation": "LARITEM",
+   "dcifrancais": [
+      {
+         "name": "ARTEMETHER ",
+         "dosage": "20 mg "
+      },
+      {
+         "name": " LUMEFANTRINE",
+         "dosage": " 120 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/24",
+   "classeTherap": "ANTIPALUDIQUES",
+   "codeAMM": "7092/08",
+   "dateExpire": "30/09/2023",
+   "fabriquant": "IPCA LABORATORIES LIMITED",
+   "demandeur": "IPCA LABORATORIES LIMITED",
+   "PGHT": "1,967.87"
+}{
+   "id": 132,
+   "designation": "RAPICLAV-625",
+   "dcifrancais": [
+      {
+         "name": "AMOXICILLINE ",
+         "dosage": "500 mg "
+      },
+      {
+         "name": " ACIDE CLAVULANIQUE",
+         "dosage": " 125 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/21",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "7094/08",
+   "dateExpire": "30/09/2023",
+   "fabriquant": "IPCA LABORATORIES LIMITED",
+   "demandeur": "IPCA LABORATORIES LIMITED",
+   "PGHT": "4,198.12"
+}{
+   "id": 133,
+   "designation": "LARITHER-80",
+   "dcifrancais": [
+      {
+         "name": "ARTEMETHER",
+         "dosage": "80 mg"
+      }
+   ],
+   "forme": "Solution injectable pour perfusion",
+   "voie": "Parentrale",
+   "presentation": "B/8",
+   "classeTherap": "ANTIPALUDIQUES",
+   "codeAMM": "AMM_2018_3769",
+   "dateExpire": "30/09/2023",
+   "fabriquant": "IPCA LABORATORIES LIMITED",
+   "demandeur": "IPCA LABORATORIES LIMITED",
+   "PGHT": "2,433.60"
+}{
+   "id": 134,
+   "designation": "LARITHER-40",
+   "dcifrancais": [
+      {
+         "name": "ARTEMETHER",
+         "dosage": "40 mg/ml"
+      }
+   ],
+   "forme": "Solution injectable en ampoule",
+   "voie": "Orale",
+   "presentation": "B/8",
+   "classeTherap": "ANTIPALUDIQUES",
+   "codeAMM": "7104/08",
+   "dateExpire": "30/09/2023",
+   "fabriquant": "IPCA LABORATORIES LIMITED",
+   "demandeur": "IPCA LABORATORIES LIMITED",
+   "PGHT": "2,236.81"
+}{
+   "id": 135,
+   "designation": "AMIFER",
+   "dcifrancais": [
+      {
+         "name": "CITRATE D'AMMONIUM FERRIQUE ",
+         "dosage": "30 mg "
+      },
+      {
+         "name": " ACIDE FOLIQUE ",
+         "dosage": " 2.5 mg "
+      },
+      {
+         "name": " CYANOCOBALAMINE",
+         "dosage": " 0.02 mg"
+      }
+   ],
+   "forme": "Sirop",
+   "voie": "Orale",
+   "presentation": "Fl/200ml",
+   "classeTherap": "ANTIANEMIQUES",
+   "codeAMM": "AMM_2018_4123",
+   "dateExpire": "30/09/2023",
+   "fabriquant": "DAFRA PHARMA GMBH",
+   "demandeur": "DAFRA PHARMA GMBH",
+   "PGHT": "1,593.97"
+}{
+   "id": 136,
+   "designation": "AMOXICILLINE SANDOZ",
+   "dcifrancais": [
+      {
+         "name": "AMOXICILLINE",
+         "dosage": "500 mg"
+      }
+   ],
+   "forme": "Comprim pellicul",
+   "voie": "Orale",
+   "presentation": "B/10x10",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "7114/08",
+   "dateExpire": "30/09/2023",
+   "fabriquant": "SANDOZ GmbH",
+   "demandeur": "SANDOZ GmbH",
+   "PGHT": "2,938.68"
+}{
+   "id": 137,
+   "designation": "RESTRIVA",
+   "dcifrancais": [
+      {
+         "name": "METAMIZOLE SODIUM",
+         "dosage": "500 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/20",
+   "classeTherap": "ANTALGIQUES/ANTIPYRETIQUES",
+   "codeAMM": "AMM_2018_4257",
+   "dateExpire": "30/09/2023",
+   "fabriquant": "TROKAA PHARMACEUTICALS LTD.",
+   "demandeur": "TROKAA PHARMACEUTICALS LTD.",
+   "PGHT": "813.38"
+}{
+   "id": 138,
+   "designation": "LERIN",
+   "dcifrancais": [
+      {
+         "name": "METHYLERGONOVINE MALEATE",
+         "dosage": "0.125 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/30",
+   "classeTherap": "UTEROTONIQUES",
+   "codeAMM": "7150/08",
+   "dateExpire": "30/09/2023",
+   "fabriquant": "TROKAA PHARMACEUTICALS LTD.",
+   "demandeur": "TROKAA PHARMACEUTICALS LTD.",
+   "PGHT": "1,849.79"
+}{
+   "id": 139,
+   "designation": "TENSICARD",
+   "dcifrancais": [
+      {
+         "name": "ATENOLOL",
+         "dosage": "50 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/30",
+   "classeTherap": "ANTIHYPERTENSEURS",
+   "codeAMM": "7154/08",
+   "dateExpire": "29/09/2023",
+   "fabriquant": "TROKAA PHARMACEUTICALS LTD.",
+   "demandeur": "TROKAA PHARMACEUTICALS LTD.",
+   "PGHT": "1,613.65"
+}{
+   "id": 140,
+   "designation": "TENSICARD - AM",
+   "dcifrancais": [
+      {
+         "name": "AMLODIPINE ",
+         "dosage": "50 mg "
+      },
+      {
+         "name": " ATENOLOL",
+         "dosage": " 5 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/30",
+   "classeTherap": "ANTIHYPERTENSEURS",
+   "codeAMM": "7156/08",
+   "dateExpire": "29/09/2023",
+   "fabriquant": "TROKAA PHARMACEUTICALS LTD.",
+   "demandeur": "TROKAA PHARMACEUTICALS LTD.",
+   "PGHT": "6,198.79"
+}{
+   "id": 141,
+   "designation": "MYONIT SR",
+   "dcifrancais": [
+      {
+         "name": "GLYCERYL STEARATE",
+         "dosage": "2.6 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/30",
+   "classeTherap": "VASODILATEURS UTILISES DANS DES MALADIES CARDIAQUES",
+   "codeAMM": "7176/08",
+   "dateExpire": "29/09/2023",
+   "fabriquant": "TROKAA PHARMACEUTICALS LTD.",
+   "demandeur": "TROKAA PHARMACEUTICALS LTD.",
+   "PGHT": "2,322.08"
+}{
+   "id": 142,
+   "designation": "DYNAPAR EC",
+   "dcifrancais": [
+      {
+         "name": "DICLOFENAC",
+         "dosage": "50 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/10x10",
+   "classeTherap": "ANTIINFLAMMATOIRES NON STEROIDIEN",
+   "codeAMM": "7180/08",
+   "dateExpire": "30/09/2023",
+   "fabriquant": "TROKAA PHARMACEUTICALS LTD.",
+   "demandeur": "TROKAA PHARMACEUTICALS LTD.",
+   "PGHT": "3,017.40"
+}{
+   "id": 143,
+   "designation": "DYNAPAR",
+   "dcifrancais": [
+      {
+         "name": "DICLOFENAC ",
+         "dosage": "50 mg "
+      },
+      {
+         "name": " PARACETAMOL",
+         "dosage": " 500 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/10x10",
+   "classeTherap": "ANTIINFLAMMATOIRES NON STEROIDIEN",
+   "codeAMM": "7182/08",
+   "dateExpire": "29/09/2023",
+   "fabriquant": "TROKAA PHARMACEUTICALS LTD.",
+   "demandeur": "TROKAA PHARMACEUTICALS LTD.",
+   "PGHT": "6,559.57"
+}{
+   "id": 144,
+   "designation": "DYNAPAR SR 100",
+   "dcifrancais": [
+      {
+         "name": "DICLOFENAC DE SODIUM",
+         "dosage": "100 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/10x10",
+   "classeTherap": "ANTIINFLAMMATOIRES NON STEROIDIEN",
+   "codeAMM": "7184/08",
+   "dateExpire": "30/09/2023",
+   "fabriquant": "TROKAA PHARMACEUTICALS LTD.",
+   "demandeur": "TROKAA PHARMACEUTICALS LTD.",
+   "PGHT": "5,247.65"
+}{
+   "id": 145,
+   "designation": "DYNAPAR AQ",
+   "dcifrancais": [
+      {
+         "name": "DICLOFENAC",
+         "dosage": "75 mg/ml"
+      }
+   ],
+   "forme": "Ampoule injectable",
+   "voie": "Parentrale",
+   "presentation": "B/5",
+   "classeTherap": "ANTIINFLAMMATOIRES NON STEROIDIEN",
+   "codeAMM": "7186/08",
+   "dateExpire": "30/09/2023",
+   "fabriquant": "TROKAA PHARMACEUTICALS LTD.",
+   "demandeur": "TROKAA PHARMACEUTICALS LTD.",
+   "PGHT": "1,803.88"
+}{
+   "id": 146,
+   "designation": "LEVOTOP 500",
+   "dcifrancais": [
+      {
+         "name": "LEVOFLOXACINE",
+         "dosage": "500 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/10",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "AMM_2018_4037",
+   "dateExpire": "30/11/2023",
+   "fabriquant": "AJANTA PHARMA (MAURITIUS) LTD",
+   "demandeur": "AJANTA PHARMA (MAURITIUS) LTD",
+   "PGHT": "5,405.09"
+}{
+   "id": 147,
+   "designation": "ZOCIN",
+   "dcifrancais": [
+      {
+         "name": "AZITHROMYCINE",
+         "dosage": "200 mg/5ml"
+      }
+   ],
+   "forme": "Suspension buvable",
+   "voie": "Orale",
+   "presentation": "Fl/15ml",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "AMM_2018_4661",
+   "dateExpire": "30/11/2023",
+   "fabriquant": "AJANTA PHARMA LIMITED",
+   "demandeur": "AJANTA PHARMA LIMITED",
+   "PGHT": "1,803.88"
+}{
+   "id": 148,
+   "designation": "BIMALARIL",
+   "dcifrancais": [
+      {
+         "name": "ARTEMETHER ",
+         "dosage": "80 mg "
+      },
+      {
+         "name": " LUMEFANTRINE",
+         "dosage": " 480 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/6",
+   "classeTherap": "ANTIPALUDIQUES",
+   "codeAMM": "AMM_2018_4281",
+   "dateExpire": "30/11/2023",
+   "fabriquant": "MEDICALE PHARMACEUTIQUE",
+   "demandeur": "MEDICALE PHARMACEUTIQUE",
+   "PGHT": "1,495.58"
+}{
+   "id": 149,
+   "designation": "BIMALARIL NOURRISON",
+   "dcifrancais": [
+      {
+         "name": "ARTEMETHER ",
+         "dosage": "20 mg "
+      },
+      {
+         "name": " LUMEFANTRINE",
+         "dosage": " 120 mg /5ml"
+      }
+   ],
+   "forme": "Poudre pour suspension buvable",
+   "voie": "Orale",
+   "presentation": "Fl/30ml",
+   "classeTherap": "ANTIPALUDIQUES",
+   "codeAMM": "AMM_2018_4282",
+   "dateExpire": "30/11/2023",
+   "fabriquant": "MEDICALE PHARMACEUTIQUE",
+   "demandeur": "MEDICALE PHARMACEUTIQUE",
+   "PGHT": "747.79"
+}{
+   "id": 150,
+   "designation": "BIMALARIL ENFANT",
+   "dcifrancais": [
+      {
+         "name": "ARTEMETHER ",
+         "dosage": "40 mg "
+      },
+      {
+         "name": " LUMEFANTRINE",
+         "dosage": " 240 mg"
+      }
+   ],
+   "forme": "Poudre pour suspension buvable",
+   "voie": "Orale",
+   "presentation": "Fl/30ml",
+   "classeTherap": "ANTIPALUDIQUES",
+   "codeAMM": "AMM_2018_4284",
+   "dateExpire": "30/11/2023",
+   "fabriquant": "MEDICALE PHARMACEUTIQUE",
+   "demandeur": "MEDICALE PHARMACEUTIQUE",
+   "PGHT": "1,252.88"
+}{
+   "id": 151,
+   "designation": "BIMALARIL ADOLESCENT",
+   "dcifrancais": [
+      {
+         "name": "ARTEMETHER ",
+         "dosage": "60 mg "
+      },
+      {
+         "name": " LUMEFANTRINE",
+         "dosage": " 360 mg /5ml"
+      }
+   ],
+   "forme": "Poudre pour suspension buvable",
+   "voie": "Orale",
+   "presentation": "Fl/30ml",
+   "classeTherap": "ANTIPALUDIQUES",
+   "codeAMM": "AMM_2018_4283",
+   "dateExpire": "30/11/2023",
+   "fabriquant": "MEDICALE PHARMACEUTIQUE",
+   "demandeur": "MEDICALE PHARMACEUTIQUE",
+   "PGHT": "1,443.11"
+}{
+   "id": 152,
+   "designation": "CEFALORAL",
+   "dcifrancais": [
+      {
+         "name": "CEFIXIME",
+         "dosage": "100 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/10",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "AMM_2018_4311",
+   "dateExpire": "30/11/2023",
+   "fabriquant": "MEDICALE PHARMACEUTIQUE",
+   "demandeur": "MEDICALE PHARMACEUTIQUE",
+   "PGHT": "2,099.06"
+}{
+   "id": 153,
+   "designation": "CEFALORAL",
+   "dcifrancais": [
+      {
+         "name": "CEFIXIME",
+         "dosage": "200 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/10",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "AMM_2018_4310",
+   "dateExpire": "30/11/2023",
+   "fabriquant": "MEDICALE PHARMACEUTIQUE",
+   "demandeur": "MEDICALE PHARMACEUTIQUE",
+   "PGHT": "2,400.80"
+}{
+   "id": 154,
+   "designation": "OFLOCINE",
+   "dcifrancais": [
+      {
+         "name": "OFLOXACINE",
+         "dosage": "200 mg/100ml"
+      }
+   ],
+   "forme": "Solution injectable pour perfusion",
+   "voie": "Parentrale",
+   "presentation": "Fl/100ml",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "AMM_2019_4899",
+   "dateExpire": "30/11/2023",
+   "fabriquant": "MEDICALE PHARMACEUTIQUE",
+   "demandeur": "MEDICALE PHARMACEUTIQUE",
+   "PGHT": "3,279.78"
+}{
+   "id": 155,
+   "designation": "FUMARATE FERREUX + ACIDE FOLIQUE TM",
+   "dcifrancais": [
+      {
+         "name": "FUMARATE FERREUX ",
+         "dosage": "200 mg "
+      },
+      {
+         "name": " ACIDE FOLIQUE",
+         "dosage": " 0,25 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/100",
+   "classeTherap": "ANTIANEMIQUES",
+   "codeAMM": "AMM_2019_4854",
+   "dateExpire": "30/11/2023",
+   "fabriquant": "TONGMEI",
+   "demandeur": "TONGMEI",
+   "PGHT": "747.79"
+}{
+   "id": 156,
+   "designation": "RESTRIVA",
+   "dcifrancais": [
+      {
+         "name": "METAMIZOLE SODIUM",
+         "dosage": "500 mg/ml"
+      }
+   ],
+   "forme": "Solution injectable pour perfusion",
+   "voie": "Orale",
+   "presentation": "B/5x5ml",
+   "classeTherap": "ANTALGIQUES/ANTIPYRETIQUES",
+   "codeAMM": "7296/08",
+   "dateExpire": "29/09/2023",
+   "fabriquant": "TROKAA PHARMACEUTICALS LTD.",
+   "demandeur": "TROKAA PHARMACEUTICALS LTD.",
+   "PGHT": "1,846.52"
+}{
+   "id": 157,
+   "designation": "AMADAY",
+   "dcifrancais": [
+      {
+         "name": "AMLODIPINE",
+         "dosage": "10 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/30",
+   "classeTherap": "ANTIHYPERTENSEURS",
+   "codeAMM": "AMM_2018_4108",
+   "dateExpire": "03/09/2023",
+   "fabriquant": "AJANTA PHARMA (MAURITIUS) LTD",
+   "demandeur": "AJANTA PHARMA (MAURITIUS) LTD",
+   "PGHT": "4,591.70"
+}{
+   "id": 158,
+   "designation": "ACTINAC",
+   "dcifrancais": [
+      {
+         "name": "ACCLOFNAC",
+         "dosage": "100 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/30",
+   "classeTherap": "ANTIINFLAMMATOIRES NON STEROIDIEN",
+   "codeAMM": "9238/12",
+   "dateExpire": "30/11/2022",
+   "fabriquant": "AJANTA PHARMA",
+   "demandeur": "AJANTA PHARMA",
+   "PGHT": "1,213.52"
+}{
+   "id": 159,
+   "designation": "ACTINAC PLUS",
+   "dcifrancais": [
+      {
+         "name": "ACECLOFENAC ",
+         "dosage": "100 mg "
+      },
+      {
+         "name": " PARACETAMOL",
+         "dosage": " 500 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/20",
+   "classeTherap": "ANTIINFLAMMATOIRES NON STEROIDIEN",
+   "codeAMM": "AMM_2018_4182",
+   "dateExpire": "30/11/2023",
+   "fabriquant": "AJANTA PHARMA LIMITED",
+   "demandeur": "AJANTA PHARMA LIMITED",
+   "PGHT": "2,820.61"
+}{
+   "id": 160,
+   "designation": "ARTEMETHER + LUMEFANTRINE TM",
+   "dcifrancais": [
+      {
+         "name": "ARTMETHER ",
+         "dosage": "20 mg "
+      },
+      {
+         "name": " LUMFANTRINE",
+         "dosage": " 120 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/24",
+   "classeTherap": "ANTIPALUDIQUES",
+   "codeAMM": "AMM_2019_4853",
+   "dateExpire": "31/12/2023",
+   "fabriquant": "TONGMEI",
+   "demandeur": "TONGMEI",
+   "PGHT": "1,298.79"
+}{
+   "id": 161,
+   "designation": "IBUPROFENE TM",
+   "dcifrancais": [
+      {
+         "name": "IBUPROFNE",
+         "dosage": "400 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/20",
+   "classeTherap": "ANTIINFLAMMATOIRES NON STEROIDIEN",
+   "codeAMM": "AMM_2019_4856",
+   "dateExpire": "31/12/2023",
+   "fabriquant": "TONGMEI",
+   "demandeur": "TONGMEI",
+   "PGHT": "327.97"
+}{
+   "id": 162,
+   "designation": "FUMARATE FERREUX TM",
+   "dcifrancais": [
+      {
+         "name": "FUMARATE FERREUX",
+         "dosage": "200 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/10x10",
+   "classeTherap": "ANTIANEMIQUES",
+   "codeAMM": "AMM_2019_4858",
+   "dateExpire": "31/12/2023",
+   "fabriquant": "TONGMEI",
+   "demandeur": "TONGMEI",
+   "PGHT": "600.00"
+}{
+   "id": 163,
+   "designation": "ACIDE FOLIQUE TM",
+   "dcifrancais": [
+      {
+         "name": "ACIDE FOLIQUE",
+         "dosage": "5 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/40",
+   "classeTherap": "ANTIANEMIQUES",
+   "codeAMM": "AMM_2019_4845",
+   "dateExpire": "31/12/2023",
+   "fabriquant": "TONGMEI",
+   "demandeur": "TONGMEI",
+   "PGHT": "393.57"
+}{
+   "id": 164,
+   "designation": "CORALAN",
+   "dcifrancais": [
+      {
+         "name": "IVABRADINE",
+         "dosage": "5 mg"
+      }
+   ],
+   "forme": "Comprim pellicul",
+   "voie": "Orale",
+   "presentation": "B/56",
+   "classeTherap": "MEDICAMENTS EN CARDIOLOGIE",
+   "codeAMM": "AMM_2019_5195",
+   "dateExpire": "31/12/2023",
+   "fabriquant": "SERVIER",
+   "demandeur": "SERVIER",
+   "PGHT": "19,678.71"
+}{
+   "id": 165,
+   "designation": "CORALAN",
+   "dcifrancais": [
+      {
+         "name": "IVABRADINE",
+         "dosage": "7,5 mg"
+      }
+   ],
+   "forme": "Comprim pellicul",
+   "voie": "Orale",
+   "presentation": "B/56",
+   "classeTherap": "MEDICAMENTS EN CARDIOLOGIE",
+   "codeAMM": "AMM_2019_5194",
+   "dateExpire": "31/12/2023",
+   "fabriquant": "SERVIER",
+   "demandeur": "SERVIER",
+   "PGHT": "19,678.71"
+}{
+   "id": 166,
+   "designation": "ASTYMIN SN",
+   "dcifrancais": [
+      {
+         "name": "L-ISOLEUCINE ",
+         "dosage": "56mg/1ml "
+      },
+      {
+         "name": " L-LEUCINE ",
+         "dosage": " 12,50mg/1ml "
+      },
+      {
+         "name": " L-LYSINE HCL ",
+         "dosage": " 11mg/ml "
+      },
+      {
+         "name": " L-METHIONINE ",
+         "dosage": " 3,5mg/ml "
+      },
+      {
+         "name": " L-PHENYLALAMINE ",
+         "dosage": " 9,35mg/ml "
+      },
+      {
+         "name": " L-ARGININE HCL ",
+         "dosage": " 9,55mg/ml "
+      },
+      {
+         "name": " L-THREONINE ",
+         "dosage": " 6,50mg/ml "
+      },
+      {
+         "name": " L-TRYPTOPHANE ",
+         "dosage": " 1,35mg/ml "
+      },
+      {
+         "name": " L-VALINE ",
+         "dosage": " 4,5mg/ml "
+      },
+      {
+         "name": " L-ALALINE ",
+         "dosage": " 6,20mg/ml "
+      },
+      {
+         "name": " L-ASPARTIC ACIDE ",
+         "dosage": " 3,80mg/ml "
+      },
+      {
+         "name": " L-CYSTEINE HYDROCHLORIDE ",
+         "dosage": " 1,45mg/ml "
+      },
+      {
+         "name": " L-GLUTAMIC ACIDE ",
+         "dosage": " 6,50mg/ml "
+      },
+      {
+         "name": " L-HISTIDINE HYDROCHLORIDE H2O ",
+         "dosage": " 8,11mg/ml "
+      },
+      {
+         "name": " L-PROLINE ",
+         "dosage": " 3,30mg/ml "
+      },
+      {
+         "name": " L",
+         "dosage": " 2,20mg/ml "
+      }
+   ],
+   "forme": "Solution injectable pour perfusion",
+   "voie": "Parentrale",
+   "presentation": "Fl/200ml",
+   "classeTherap": "MULTIVITAMINES ET MINERAUX",
+   "codeAMM": "7322/08",
+   "dateExpire": "31/12/2023",
+   "fabriquant": "TIL HEALTHCARE. PVT. LTD",
+   "demandeur": "TIL HEALTHCARE. PVT. LTD",
+   "PGHT": "3,279.78"
+}{
+   "id": 167,
+   "designation": "AMLOR",
+   "dcifrancais": [
+      {
+         "name": "AMLODIPINE",
+         "dosage": "5 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/14",
+   "classeTherap": "ANTIHYPERTENSEURS",
+   "codeAMM": "AMM_2018_4107",
+   "dateExpire": "31/12/2023",
+   "fabriquant": "PFIZER AFRIQUE DE L' OUEST",
+   "demandeur": "PFIZER AFRIQUE DE L' OUEST",
+   "PGHT": "3,561.84"
+}{
+   "id": 168,
+   "designation": "AMLOR",
+   "dcifrancais": [
+      {
+         "name": "AMLODIPINE",
+         "dosage": "5 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/56",
+   "classeTherap": "ANTIHYPERTENSEURS",
+   "codeAMM": "7344/08",
+   "dateExpire": "31/12/2023",
+   "fabriquant": "PFIZER AFRIQUE DE L' OUEST",
+   "demandeur": "PFIZER AFRIQUE DE L' OUEST",
+   "PGHT": "5,883.93"
+}{
+   "id": 169,
+   "designation": "FLIXOTIDE",
+   "dcifrancais": [
+      {
+         "name": "FLUTICASONE",
+         "dosage": "50 g"
+      }
+   ],
+   "forme": "Solution pour inhalation",
+   "voie": "Nasale",
+   "presentation": "FL/120 doses",
+   "classeTherap": "CORTICODES",
+   "codeAMM": "7346/09",
+   "dateExpire": "31/01/2024",
+   "fabriquant": "GLAXOSMITHKLINE",
+   "demandeur": "GLAXOSMITHKLINE",
+   "PGHT": "4,795.04"
+}{
+   "id": 170,
+   "designation": "SERETIDE DISKUS",
+   "dcifrancais": [
+      {
+         "name": "FLUTICASONE ",
+         "dosage": "250 g "
+      },
+      {
+         "name": " SALMETEROL",
+         "dosage": " 50 g"
+      }
+   ],
+   "forme": "Solution pour inhalation",
+   "voie": "Nasale",
+   "presentation": "Flacon de 60 doses",
+   "classeTherap": "CORTICODES",
+   "codeAMM": "7350/09",
+   "dateExpire": "31/03/2024",
+   "fabriquant": "GLAXOSMITHKLINE",
+   "demandeur": "GLAXOSMITHKLINE",
+   "PGHT": "6,808.83"
+}{
+   "id": 171,
+   "designation": "AZITRINE",
+   "dcifrancais": [
+      {
+         "name": "AZITHROMYCINE",
+         "dosage": "250 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/6",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "7388/09",
+   "dateExpire": "31/01/2024",
+   "fabriquant": "IMEX-PHARMA",
+   "demandeur": "IMEX-PHARMA",
+   "PGHT": "1,311.91"
+}{
+   "id": 172,
+   "designation": "LOFNAC-P",
+   "dcifrancais": [
+      {
+         "name": "DICLOFNAC ",
+         "dosage": "50 mg "
+      },
+      {
+         "name": " PARACETAMOL",
+         "dosage": " 500 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/10",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "7390/09",
+   "dateExpire": "31/01/2024",
+   "fabriquant": "BLISS GVS PHARMA LTD",
+   "demandeur": "IMEX-PHARMA",
+   "PGHT": "787.14"
+}{
+   "id": 173,
+   "designation": "CLAVUMOCCID",
+   "dcifrancais": [
+      {
+         "name": "AMOXICILLINE ",
+         "dosage": "250 mg "
+      },
+      {
+         "name": " ACIDE CLAVULANIQUE",
+         "dosage": " 31,25 mg/5 ml"
+      }
+   ],
+   "forme": "Suspension buvable",
+   "voie": "Orale",
+   "presentation": "B/2 Flacons de 60ml",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "7392/09",
+   "dateExpire": "31/01/2024",
+   "fabriquant": "MEDOPHARM PRIVATE LIMITED",
+   "demandeur": "IMEX-PHARMA",
+   "PGHT": "3,312.58"
+}{
+   "id": 174,
+   "designation": "CLAVUMOCCID",
+   "dcifrancais": [
+      {
+         "name": "AMOXICILLINE ",
+         "dosage": "500 mg "
+      },
+      {
+         "name": " ACIDE CLAVULANIQUE",
+         "dosage": " 62,50 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/12",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "7396/09",
+   "dateExpire": "31/01/2024",
+   "fabriquant": "MEDOPHARM PRIVATE LIMITED",
+   "demandeur": "IMEX-PHARMA",
+   "PGHT": "3,246.98"
+}{
+   "id": 175,
+   "designation": "CLAVUMOCCID",
+   "dcifrancais": [
+      {
+         "name": "AMOXICILLINE ",
+         "dosage": "1000 mg "
+      },
+      {
+         "name": " ACIDE CLAVULANIQUE",
+         "dosage": " 125 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/10",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "AMM_2017_1717",
+   "dateExpire": "31/01/2024",
+   "fabriquant": "MEDOPHARM PRIVATE LIMITED",
+   "demandeur": "IMEX-PHARMA",
+   "PGHT": "3,279.78"
+}{
+   "id": 176,
+   "designation": "ANOMEX",
+   "dcifrancais": [
+      {
+         "name": "ACETATE D'HYDROCORTISONE ",
+         "dosage": "0,25% "
+      },
+      {
+         "name": " LIDOCANE ",
+         "dosage": " 3% "
+      },
+      {
+         "name": " OXIDE DE ZINC ",
+         "dosage": " 5% "
+      },
+      {
+         "name": " ALLANTONE",
+         "dosage": " 0,5%"
+      }
+   ],
+   "forme": "Suppositoire",
+   "voie": "Rectale",
+   "presentation": "B/10",
+   "classeTherap": "ANTIHEMORROIDAIRES",
+   "codeAMM": "7400/09",
+   "dateExpire": "31/01/2024",
+   "fabriquant": "EGR PHARMA",
+   "demandeur": "IMEX-PHARMA",
+   "PGHT": "2,951.80"
+}{
+   "id": 177,
+   "designation": "SUPAFEN",
+   "dcifrancais": [
+      {
+         "name": "PARACETAMOL ",
+         "dosage": "400 mg "
+      },
+      {
+         "name": " IBUPROFNE",
+         "dosage": " 300 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/10",
+   "classeTherap": "ANTIINFLAMMATOIRES NON STEROIDIEN",
+   "codeAMM": "7402/09",
+   "dateExpire": "31/01/2024",
+   "fabriquant": "EGR PHARMA",
+   "demandeur": "IMEX-PHARMA",
+   "PGHT": "983.93"
+}{
+   "id": 178,
+   "designation": "SECAMIB",
+   "dcifrancais": [
+      {
+         "name": "SECNIDAZOLE",
+         "dosage": "1 g"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/2",
+   "classeTherap": "ANTIPROTOZOAIRES",
+   "codeAMM": "7406/09",
+   "dateExpire": "31/01/2024",
+   "fabriquant": "IMEX-PHARMA",
+   "demandeur": "IMEX-PHARMA",
+   "PGHT": "1,443.10"
+}{
+   "id": 179,
+   "designation": "FUCLO",
+   "dcifrancais": [
+      {
+         "name": "FLUCLOXACILLINE",
+         "dosage": "250 mg/5ml"
+      }
+   ],
+   "forme": "Suspension buvable",
+   "voie": "Orale",
+   "presentation": "Fl/100ml",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "7408/09",
+   "dateExpire": "31/01/2024",
+   "fabriquant": "MEDOPHARM PRIVATE LIMITED",
+   "demandeur": "IMEX-PHARMA",
+   "PGHT": "2,492.63"
+}{
+   "id": 180,
+   "designation": "BILOR",
+   "dcifrancais": [
+      {
+         "name": "LORATADINE",
+         "dosage": "5 mg /5 ml"
+      }
+   ],
+   "forme": "Sirop",
+   "voie": "Orale",
+   "presentation": "Fl/60ml",
+   "classeTherap": "ANTIHISTAMINIQUES",
+   "codeAMM": "7412/09",
+   "dateExpire": "31/01/2024",
+   "fabriquant": "EGR PHARMA",
+   "demandeur": "IMEX-PHARMA",
+   "PGHT": "983.93"
+}{
+   "id": 181,
+   "designation": "BILOR",
+   "dcifrancais": [
+      {
+         "name": "LORATADINE",
+         "dosage": "10 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/10",
+   "classeTherap": "ANTIHISTAMINIQUES",
+   "codeAMM": "7414/09",
+   "dateExpire": "31/01/2024",
+   "fabriquant": "EGR PHARMA",
+   "demandeur": "IMEX-PHARMA",
+   "PGHT": "1,377.50"
+}{
+   "id": 182,
+   "designation": "BONCIPRO",
+   "dcifrancais": [
+      {
+         "name": "CIPROFLOXACINE",
+         "dosage": "750 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/20",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "7432/08",
+   "dateExpire": "30/09/2023",
+   "fabriquant": "LITAKA PHARMACEUTICALS. LTD",
+   "demandeur": "GENERIC HEALTH CARE PVT. LTD",
+   "PGHT": "3,279.78"
+}{
+   "id": 183,
+   "designation": "BONCIPRO",
+   "dcifrancais": [
+      {
+         "name": "CIPROFLOXACINE",
+         "dosage": "500 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/20",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "7434/08",
+   "dateExpire": "30/09/2023",
+   "fabriquant": "LITAKA PHARMACEUTICALS. LTD",
+   "demandeur": "GENERIC HEALTH CARE PVT. LTD",
+   "PGHT": "2,295.84"
+}{
+   "id": 184,
+   "designation": "FERRO-DENK",
+   "dcifrancais": [
+      {
+         "name": "FER",
+         "dosage": "50 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/50",
+   "classeTherap": "ANTIANEMIQUES",
+   "codeAMM": "AMM_2019_4922",
+   "dateExpire": "31/03/2024",
+   "fabriquant": "DENK PHARMA GmbH & Co. KG",
+   "demandeur": "DENK PHARMA GmbH & Co. KG",
+   "PGHT": "1,639.89"
+}{
+   "id": 185,
+   "designation": "DUOTRAV",
+   "dcifrancais": [
+      {
+         "name": "TRAVOPROST ",
+         "dosage": "40 g/ml "
+      },
+      {
+         "name": " TIMOLOL",
+         "dosage": " 5 mg/ml"
+      }
+   ],
+   "forme": "Collyre",
+   "voie": "Ophtalmique",
+   "presentation": "Flacon de 2,5ml",
+   "classeTherap": "ANTIGLAUCOMATEUX ET MYOTIQUES",
+   "codeAMM": "7446/09",
+   "dateExpire": "31/03/2024",
+   "fabriquant": "ALCON FRANCE",
+   "demandeur": "ALCON FRANCE",
+   "PGHT": "9,740.96"
+}{
+   "id": 186,
+   "designation": "CALCID-DENK",
+   "dcifrancais": [
+      {
+         "name": "CALCIUM ",
+         "dosage": "1000 mg "
+      },
+      {
+         "name": " VITAMINE D3",
+         "dosage": " 880 IU"
+      }
+   ],
+   "forme": "Comprim effervescent",
+   "voie": "Orale",
+   "presentation": "B/20",
+   "classeTherap": "COMPLEMENTS MINERAUX",
+   "codeAMM": "AMM_2019_4921",
+   "dateExpire": "31/03/2024",
+   "fabriquant": "DENK PHARMA GmbH & Co. KG",
+   "demandeur": "DENK PHARMA GmbH & Co. KG",
+   "PGHT": "2,623.82"
+}{
+   "id": 187,
+   "designation": "PARACO-DENK 1000/60",
+   "dcifrancais": [
+      {
+         "name": "PARACETAMOL ",
+         "dosage": "1000 mg "
+      },
+      {
+         "name": " CODEINE",
+         "dosage": " 60 mg"
+      }
+   ],
+   "forme": "Suppositoire",
+   "voie": "Rectale",
+   "presentation": "B/10",
+   "classeTherap": "ANALGESIQUES OPIODES",
+   "codeAMM": "AMM_2019_4928",
+   "dateExpire": "31/03/2024",
+   "fabriquant": "DENK PHARMA GmbH & Co. KG",
+   "demandeur": "DENK PHARMA GmbH & Co. KG",
+   "PGHT": "2,361.44"
+}{
+   "id": 188,
+   "designation": "ENA-DENK 10",
+   "dcifrancais": [
+      {
+         "name": "ENALAPRIL",
+         "dosage": "10 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/30",
+   "classeTherap": "ANTIHYPERTENSEURS",
+   "codeAMM": "AMM_2019_4913",
+   "dateExpire": "31/03/2024",
+   "fabriquant": "DENK PHARMA GmbH & Co. KG",
+   "demandeur": "DENK PHARMA GmbH & Co. KG",
+   "PGHT": "2,394.24"
+}{
+   "id": 189,
+   "designation": "ENA-DENK 20",
+   "dcifrancais": [
+      {
+         "name": "ENALAPRIL",
+         "dosage": "20 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/30",
+   "classeTherap": "ANTIHYPERTENSEURS",
+   "codeAMM": "AMM_2019_4914",
+   "dateExpire": "31/03/2024",
+   "fabriquant": "DENK PHARMA GmbH & Co. KG",
+   "demandeur": "DENK PHARMA GmbH & Co. KG",
+   "PGHT": "4,099.73"
+}{
+   "id": 190,
+   "designation": "SIMVA-DENK 20",
+   "dcifrancais": [
+      {
+         "name": "SIMVASTATINE",
+         "dosage": "20 mg"
+      }
+   ],
+   "forme": "Comprim pellicul",
+   "voie": "Orale",
+   "presentation": "B/30",
+   "classeTherap": "HYPOLIPEMIANTS",
+   "codeAMM": "AMM_2019_4924",
+   "dateExpire": "31/03/2024",
+   "fabriquant": "DENK PHARMA GmbH & Co. KG",
+   "demandeur": "DENK PHARMA GmbH & Co. KG",
+   "PGHT": "4,263.72"
+}{
+   "id": 191,
+   "designation": "SIMVA-DENK 40",
+   "dcifrancais": [
+      {
+         "name": "SIMVASTATINE",
+         "dosage": "40 mg"
+      }
+   ],
+   "forme": "Comprim pellicul",
+   "voie": "Orale",
+   "presentation": "B/30",
+   "classeTherap": "HYPOLIPEMIANTS",
+   "codeAMM": "AMM_2019_4925",
+   "dateExpire": "31/03/2024",
+   "fabriquant": "DENK PHARMA GmbH & Co. KG",
+   "demandeur": "DENK PHARMA GmbH & Co. KG",
+   "PGHT": "5,903.61"
+}{
+   "id": 192,
+   "designation": "AMLO-DENK",
+   "dcifrancais": [
+      {
+         "name": "AMLODIPINE",
+         "dosage": "5 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/50",
+   "classeTherap": "ANTIHYPERTENSEURS",
+   "codeAMM": "AMM_2019_4927",
+   "dateExpire": "31/03/2024",
+   "fabriquant": "DENK PHARMA GmbH & Co. KG",
+   "demandeur": "DENK PHARMA GmbH & Co. KG",
+   "PGHT": "4,066.93"
+}{
+   "id": 193,
+   "designation": "AMLO-DENK",
+   "dcifrancais": [
+      {
+         "name": "AMLODIPINE",
+         "dosage": "10 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/50",
+   "classeTherap": "ANTIHYPERTENSEURS",
+   "codeAMM": "AMM_2019_4919",
+   "dateExpire": "31/03/2024",
+   "fabriquant": "DENK PHARMA GmbH & Co. KG",
+   "demandeur": "DENK PHARMA GmbH & Co. KG",
+   "PGHT": "5,247.65"
+}{
+   "id": 194,
+   "designation": "CARY",
+   "dcifrancais": [
+      {
+         "name": "ERYTHROMYCINE",
+         "dosage": "500 mg"
+      }
+   ],
+   "forme": "Comprim pellicul",
+   "voie": "Orale",
+   "presentation": "B/20",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "7482/09",
+   "dateExpire": "30/04/2024",
+   "fabriquant": "CAPLIN POINT LABORATOIRES.",
+   "demandeur": "CAPLIN POINT LABORATOIRES.",
+   "PGHT": "675.63"
+}{
+   "id": 195,
+   "designation": "FLUCAP",
+   "dcifrancais": [
+      {
+         "name": "FLUCONAZOLE",
+         "dosage": "150 mg"
+      }
+   ],
+   "forme": "Glule",
+   "voie": "Orale",
+   "presentation": "B/1",
+   "classeTherap": "ANTIFONGIQUES",
+   "codeAMM": "7484/09",
+   "dateExpire": "30/04/2024",
+   "fabriquant": "CAPLIN POINT LABORATOIRES.",
+   "demandeur": "CAPLIN POINT LABORATOIRES.",
+   "PGHT": "446.05"
+}{
+   "id": 196,
+   "designation": "CIPTIN FORTE",
+   "dcifrancais": [
+      {
+         "name": "CIPROFLOXACINE ",
+         "dosage": "500 mg "
+      },
+      {
+         "name": " TINIDAZOLE",
+         "dosage": " 600 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/10",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "7486/09",
+   "dateExpire": "31/03/2024",
+   "fabriquant": "CAPLIN POINT LABORATOIRES.",
+   "demandeur": "CAPLIN POINT LABORATOIRES.",
+   "PGHT": "1,954.75"
+}{
+   "id": 197,
+   "designation": "CHIBROXINE",
+   "dcifrancais": [
+      {
+         "name": "NORFLOXACINE",
+         "dosage": "0,3 %"
+      }
+   ],
+   "forme": "Collyre",
+   "voie": "Ophtalmique",
+   "presentation": "Fl/5ml",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "7490/09",
+   "dateExpire": "30/04/2024",
+   "fabriquant": "LABORATOIRES THEA",
+   "demandeur": "THEA",
+   "PGHT": "1,482.46"
+}{
+   "id": 198,
+   "designation": "ALDOMET",
+   "dcifrancais": [
+      {
+         "name": "MTHYLDOPA",
+         "dosage": "500 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/30",
+   "classeTherap": "ANTIHYPERTENSEURS",
+   "codeAMM": "7494/09",
+   "dateExpire": "30/04/2024",
+   "fabriquant": "ASPEN PHARMACARE",
+   "demandeur": "ASPEN GLOBAL INCORPORATED GBS plaza",
+   "PGHT": "2,177.77"
+}{
+   "id": 199,
+   "designation": "ALDOMET",
+   "dcifrancais": [
+      {
+         "name": "MTHYLDOPA",
+         "dosage": "250 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/30",
+   "classeTherap": "ANTIHYPERTENSEURS",
+   "codeAMM": "7496/09",
+   "dateExpire": "30/04/2024",
+   "fabriquant": "ASPEN PHARMACARE",
+   "demandeur": "ASPEN GLOBAL INCORPORATED GBS plaza",
+   "PGHT": "1,259.43"
+}{
+   "id": 200,
+   "designation": "MIGRALGINE",
+   "dcifrancais": [
+      {
+         "name": "PARACETAMOL ",
+         "dosage": "400 mg "
+      },
+      {
+         "name": " CAFINE ",
+         "dosage": " 62,5 mg "
+      },
+      {
+         "name": " PHOSPHATE DE CODINE HEMIHYDRATE",
+         "dosage": " 20 mg"
+      }
+   ],
+   "forme": "Glule",
+   "voie": "Orale",
+   "presentation": "B/12",
+   "classeTherap": "ANALGESIQUES OPIODES",
+   "codeAMM": "7500/09",
+   "dateExpire": "30/04/2024",
+   "fabriquant": "MCNEIL SGP",
+   "demandeur": "JOHNSON & JOHNSON SANTE BEAUTE FRANCE",
+   "PGHT": "1,541.49"
+}{
+   "id": 101,
+   "designation": "WORMIN",
+   "dcifrancais": [
+      {
+         "name": "MEBENDAZOLE",
+         "dosage": "100 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/6",
+   "classeTherap": "ANTHELMINTHIQUES",
+   "codeAMM": "7526/09",
+   "dateExpire": "30/04/2024",
+   "fabriquant": "CADILA PHARMACEUTICAL LIMITED.,",
+   "demandeur": "CADILA PHARMACEUTICAL LIMITED.,",
+   "PGHT": "524.76"
+}{
+   "id": 102,
+   "designation": "CEFAMOR",
+   "dcifrancais": [
+      {
+         "name": "CFALEXINE",
+         "dosage": "125 mg/5 ml"
+      }
+   ],
+   "forme": "Suspension buvable",
+   "voie": "Orale",
+   "presentation": "Flacon de 100ml",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "7530/09",
+   "dateExpire": "30/04/2024",
+   "fabriquant": "CADILA PHARMACEUTICAL LIMITED.,",
+   "demandeur": "CADILA PHARMACEUTICAL LIMITED.,",
+   "PGHT": "819.94"
+}{
+   "id": 103,
+   "designation": "HAEM UP",
+   "dcifrancais": [
+      {
+         "name": "ACIDE FOLIQUE ",
+         "dosage": "-"
+      },
+      {
+         "name": " CITRATE FERRIQUE AMMONIACAL ",
+         "dosage": "-"
+      },
+      {
+         "name": " SULFATE DE CUIVRE ",
+         "dosage": "-"
+      },
+      {
+         "name": " SULFATE DE MANGANESE ",
+         "dosage": "-"
+      },
+      {
+         "name": " VITAMINE B12 (CYANOCOBALAMINE)",
+         "dosage": "-"
+      }
+   ],
+   "forme": "Sirop",
+   "voie": "Orale",
+   "presentation": "Fl/200ml",
+   "classeTherap": "ANTIANEMIQUES",
+   "codeAMM": "7532/09",
+   "dateExpire": "30/04/2024",
+   "fabriquant": "CADILA PHARMACEUTICAL LIMITED.,",
+   "demandeur": "CADILA PHARMACEUTICAL LIMITED.,",
+   "PGHT": "1,475.90"
+}{
+   "id": 104,
+   "designation": "XALATAN",
+   "dcifrancais": [
+      {
+         "name": "LATANOPROST",
+         "dosage": "0.005 %"
+      }
+   ],
+   "forme": "Collyre",
+   "voie": "Ophtalmique",
+   "presentation": "Fl/2,5ml",
+   "classeTherap": "ANTIGLAUCOMATEUX ET MYOTIQUES",
+   "codeAMM": "7536/09",
+   "dateExpire": "30/04/2024",
+   "fabriquant": "PFIZER AFRIQUE DE L' OUEST",
+   "demandeur": "PFIZER AFRIQUE DE L' OUEST",
+   "PGHT": "9,098.12"
+}{
+   "id": 105,
+   "designation": "XALACOM",
+   "dcifrancais": [
+      {
+         "name": "LATANOPROST ",
+         "dosage": "50 g "
+      },
+      {
+         "name": " TIMOLOL",
+         "dosage": " 5 mg"
+      }
+   ],
+   "forme": "Collyre",
+   "voie": "Ophtalmique",
+   "presentation": "Flacon de 2,5ml",
+   "classeTherap": "ANTIGLAUCOMATEUX ET MYOTIQUES",
+   "codeAMM": "7538/09",
+   "dateExpire": "30/04/2024",
+   "fabriquant": "PFIZER AFRIQUE DE L' OUEST",
+   "demandeur": "PFIZER AFRIQUE DE L' OUEST",
+   "PGHT": "9,839.35"
+}{
+   "id": 106,
+   "designation": "ACUILIX",
+   "dcifrancais": [
+      {
+         "name": "QUINAPRIL ",
+         "dosage": "20 mg "
+      },
+      {
+         "name": " HYDROCHLOROTHIAZIDE",
+         "dosage": " 12,5 mg"
+      }
+   ],
+   "forme": "Comprim pellicul scable",
+   "voie": "Orale",
+   "presentation": "B/28",
+   "classeTherap": "ANTIHYPERTENSEURS",
+   "codeAMM": "7542/09",
+   "dateExpire": "30/04/2024",
+   "fabriquant": "PFIZER AFRIQUE DE L' OUEST",
+   "demandeur": "PFIZER AFRIQUE DE L' OUEST",
+   "PGHT": "3,935.74"
+}{
+   "id": 107,
+   "designation": "COVERSYL",
+   "dcifrancais": [
+      {
+         "name": "PERINDOPRIL",
+         "dosage": "5 mg"
+      }
+   ],
+   "forme": "Comprim pellicul scable",
+   "voie": "Orale",
+   "presentation": "B/30",
+   "classeTherap": "ANTIHYPERTENSEURS",
+   "codeAMM": "AMM_2019_5097",
+   "dateExpire": "30/04/2024",
+   "fabriquant": "SERVIER",
+   "demandeur": "SERVIER",
+   "PGHT": "6,559.57"
+}{
+   "id": 108,
+   "designation": "COVERSYL",
+   "dcifrancais": [
+      {
+         "name": "PERINDOPRIL",
+         "dosage": "10 mg"
+      }
+   ],
+   "forme": "Comprim pellicul scable",
+   "voie": "Orale",
+   "presentation": "B/30",
+   "classeTherap": "ANTIHYPERTENSEURS",
+   "codeAMM": "AMM_2019_5096",
+   "dateExpire": "30/04/2024",
+   "fabriquant": "SERVIER",
+   "demandeur": "SERVIER",
+   "PGHT": "9,511.37"
+}{
+   "id": 109,
+   "designation": "LONGAMYCINE",
+   "dcifrancais": [
+      {
+         "name": "DOXYCYCLINE",
+         "dosage": "200 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/8",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "7548/09",
+   "dateExpire": "30/04/2024",
+   "fabriquant": "BOTTU S. A .",
+   "demandeur": "BOTTU S. A .",
+   "PGHT": "944.57"
+}{
+   "id": 110,
+   "designation": "APAZIDE",
+   "dcifrancais": [
+      {
+         "name": "NIFUROXAZIDE",
+         "dosage": "4 %"
+      }
+   ],
+   "forme": "Suspension buvable",
+   "voie": "Orale",
+   "presentation": "Fl/100ml",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "7556/09",
+   "dateExpire": "30/04/2024",
+   "fabriquant": "BOTTU S. A .",
+   "demandeur": "BOTTU S. A .",
+   "PGHT": "879.98"
+}{
+   "id": 111,
+   "designation": "LITACOLD",
+   "dcifrancais": [
+      {
+         "name": "PARACETAMOL ",
+         "dosage": "125 mg "
+      },
+      {
+         "name": " PHENYLEPHRINE HYDROCHLORIDE ",
+         "dosage": " 2,5 mg "
+      },
+      {
+         "name": " CHLORPHENIRAMINE MALEATE",
+         "dosage": " 1 mg"
+      }
+   ],
+   "forme": "Sirop",
+   "voie": "Orale",
+   "presentation": "Flacon de 100ml",
+   "classeTherap": "ASSOCIATIONS ANTI-RHUME",
+   "codeAMM": "7562/09",
+   "dateExpire": "30/04/2024",
+   "fabriquant": "LITAKA PHARMACEUTICALS. LTD",
+   "demandeur": "GENERIC HEALTH CARE PVT. LTD",
+   "PGHT": "655.95"
+}{
+   "id": 112,
+   "designation": "LITACOLD",
+   "dcifrancais": [
+      {
+         "name": "PARACETAMOL ",
+         "dosage": "500 mg "
+      },
+      {
+         "name": " CAFFEINE ANHYDROUS ",
+         "dosage": " 30 mg "
+      },
+      {
+         "name": " PHENYLEPHRINE HYDROCHLORIDE ",
+         "dosage": " 5 mg "
+      },
+      {
+         "name": " CHLORPHENIRAMINE MALEATE",
+         "dosage": " 2 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/20x4",
+   "classeTherap": "ASSOCIATIONS ANTI-RHUME",
+   "codeAMM": "7564/09",
+   "dateExpire": "30/04/2024",
+   "fabriquant": "LITAKA PHARMACEUTICALS. LTD",
+   "demandeur": "GENERIC HEALTH CARE PVT. LTD",
+   "PGHT": "2,492.63"
+}{
+   "id": 113,
+   "designation": "DOLEX SR",
+   "dcifrancais": [
+      {
+         "name": "DICLOFENAC",
+         "dosage": "75 mg"
+      }
+   ],
+   "forme": "Comprim enrob libration prolonge",
+   "voie": "Orale",
+   "presentation": "B/30",
+   "classeTherap": "ANTIINFLAMMATOIRES NON STEROIDIEN",
+   "codeAMM": "7566/09",
+   "dateExpire": "30/04/2024",
+   "fabriquant": "LITAKA PHARMACEUTICALS. LTD",
+   "demandeur": "GENERIC HEALTH CARE PVT. LTD",
+   "PGHT": "1,639.89"
+}{
+   "id": 114,
+   "designation": "DOLEX",
+   "dcifrancais": [
+      {
+         "name": "DICLOFENAC",
+         "dosage": "50 mg"
+      }
+   ],
+   "forme": "Comprim gastrorsistant",
+   "voie": "Orale",
+   "presentation": "B/30",
+   "classeTherap": "ANTIINFLAMMATOIRES NON STEROIDIEN",
+   "codeAMM": "7568/09",
+   "dateExpire": "30/04/2024",
+   "fabriquant": "LITAKA PHARMACEUTICALS. LTD",
+   "demandeur": "GENERIC HEALTH CARE PVT. LTD",
+   "PGHT": "819.94"
+}{
+   "id": 115,
+   "designation": "ARTRIM",
+   "dcifrancais": [
+      {
+         "name": "ARTEMETHER ",
+         "dosage": "40 mg "
+      },
+      {
+         "name": " LUMEFANTRINE",
+         "dosage": " 240 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/12",
+   "classeTherap": "ANTIPALUDIQUES",
+   "codeAMM": "7570/09",
+   "dateExpire": "30/04/2024",
+   "fabriquant": "LITAKA PHARMACEUTICALS. LTD",
+   "demandeur": "GENERIC HEALTH CARE PVT. LTD",
+   "PGHT": "1,967.87"
+}{
+   "id": 116,
+   "designation": "ARTRIM",
+   "dcifrancais": [
+      {
+         "name": "ARTEMETHER ",
+         "dosage": "15 mg/5ml "
+      },
+      {
+         "name": " LUMEFANTRINE",
+         "dosage": " 90 mg/5 ml"
+      }
+   ],
+   "forme": "Suspension buvable",
+   "voie": "Orale",
+   "presentation": "Flacon de 60ml",
+   "classeTherap": "ANTIPALUDIQUES",
+   "codeAMM": "7572/09",
+   "dateExpire": "30/04/2024",
+   "fabriquant": "LITAKA PHARMACEUTICALS. LTD",
+   "demandeur": "GENERIC HEALTH CARE PVT. LTD",
+   "PGHT": "1,639.89"
+}{
+   "id": 117,
+   "designation": "PEDIFEN",
+   "dcifrancais": [
+      {
+         "name": "IBUPROFENE",
+         "dosage": "100 mg/5ml"
+      }
+   ],
+   "forme": "Sirop",
+   "voie": "Orale",
+   "presentation": "Fl/100ml",
+   "classeTherap": "ANTIINFLAMMATOIRES NON STEROIDIEN",
+   "codeAMM": "7576/09",
+   "dateExpire": "30/04/2024",
+   "fabriquant": "DAFRA PHARMA GMBH",
+   "demandeur": "DAFRA PHARMA GMBH",
+   "PGHT": "1,298.79"
+}{
+   "id": 118,
+   "designation": "BUPITROY HEAVY",
+   "dcifrancais": [
+      {
+         "name": "BUPIVACANE ",
+         "dosage": "5 mg/ml "
+      },
+      {
+         "name": " CHLORHYDRATE DE DEXTROSE",
+         "dosage": " 8 mg/ml"
+      }
+   ],
+   "forme": "Solution injectable pour perfusion",
+   "voie": "Parentrale",
+   "presentation": "B/5",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "7606/09",
+   "dateExpire": "31/05/2024",
+   "fabriquant": "TROKAA PHARMACEUTICALS LTD.",
+   "demandeur": "TROKAA PHARMACEUTICALS LTD.",
+   "PGHT": "2,623.83"
+}{
+   "id": 119,
+   "designation": "MEDIS-LOSAR",
+   "dcifrancais": [
+      {
+         "name": "LOSARTAN",
+         "dosage": "50 mg"
+      }
+   ],
+   "forme": "Comprim pellicul",
+   "voie": "Orale",
+   "presentation": "B/30",
+   "classeTherap": "ANTIHYPERTENSEURS",
+   "codeAMM": "9982/14",
+   "dateExpire": "30/09/2024",
+   "fabriquant": "UNICHEM",
+   "demandeur": "MEDIS",
+   "PGHT": "3,804.55"
+}{
+   "id": 120,
+   "designation": "FIXIM 200",
+   "dcifrancais": [
+      {
+         "name": "CEFIXIME",
+         "dosage": "200 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/10",
+   "classeTherap": "ANTIBIOTIQUES",
+   "codeAMM": "7628/09",
+   "dateExpire": "30/05/2024",
+   "fabriquant": "AJANTA PHARMA LIMITED",
+   "demandeur": "AJANTA PHARMA (MAURITIUS) LTD",
+   "PGHT": "4,263.72"
+}{
+   "id": 121,
+   "designation": "KETONAL",
+   "dcifrancais": [
+      {
+         "name": "KETOPROFENE",
+         "dosage": "100 mg"
+      }
+   ],
+   "forme": "Suppositoire",
+   "voie": "Rectale",
+   "presentation": "B/12",
+   "classeTherap": "ANTIINFLAMMATOIRES NON STEROIDIEN",
+   "codeAMM": "7636/09",
+   "dateExpire": "31/05/2024",
+   "fabriquant": "SANDOZ GmbH",
+   "demandeur": "SANDOZ GmbH",
+   "PGHT": "1,049.53"
+}{
+   "id": 122,
+   "designation": "KETONAL DUO",
+   "dcifrancais": [
+      {
+         "name": "KTOPROFNE",
+         "dosage": "150 mg"
+      }
+   ],
+   "forme": "Glule",
+   "voie": "Orale",
+   "presentation": "B/20",
+   "classeTherap": "ANTIINFLAMMATOIRES NON STEROIDIEN",
+   "codeAMM": "7638/09",
+   "dateExpire": "31/05/2024",
+   "fabriquant": "SANDOZ GmbH",
+   "demandeur": "SANDOZ GmbH",
+   "PGHT": "2,295.84"
+}{
+   "id": 123,
+   "designation": "TANAGEL",
+   "dcifrancais": [
+      {
+         "name": "TANATE DE GELATINE",
+         "dosage": "250 mg"
+      }
+   ],
+   "forme": "Poudre effervescente",
+   "voie": "Orale",
+   "presentation": "B/20",
+   "classeTherap": "ANTIDIARRHEIQUES",
+   "codeAMM": "7646/09",
+   "dateExpire": "28/06/2024",
+   "fabriquant": "FRANCISCO DURBAN",
+   "demandeur": "FRANCISCO DURBAN",
+   "PGHT": "1,508.70"
+}{
+   "id": 124,
+   "designation": "OLFEN-75",
+   "dcifrancais": [
+      {
+         "name": "DICLOFNAC",
+         "dosage": "75 mg"
+      }
+   ],
+   "forme": "Ampoule injectable",
+   "voie": "Parentrale",
+   "presentation": "B/3",
+   "classeTherap": "ANTIINFLAMMATOIRES NON STEROIDIEN",
+   "codeAMM": "7658/14",
+   "dateExpire": "31/03/2024",
+   "fabriquant": "MEPHA",
+   "demandeur": "ACINO PHARMA AG",
+   "PGHT": "656.00"
+}{
+   "id": 125,
+   "designation": "CARBOMUC ADULTES",
+   "dcifrancais": [
+      {
+         "name": "CARBOCISTEINE",
+         "dosage": "5 %"
+      }
+   ],
+   "forme": "Sirop",
+   "voie": "Orale",
+   "presentation": "Fl/125ml",
+   "classeTherap": "Expectorants",
+   "codeAMM": "7660/09",
+   "dateExpire": "30/06/2024",
+   "fabriquant": "CINFA SA",
+   "demandeur": "CINFA SA",
+   "PGHT": "1,180.72"
+}{
+   "id": 126,
+   "designation": "DOLKO 60mg/2ml",
+   "dcifrancais": [
+      {
+         "name": "PARACETAMOL",
+         "dosage": "3.0000 g"
+      }
+   ],
+   "forme": "Suspension buvable",
+   "voie": "Orale",
+   "presentation": "Fl/90ml",
+   "classeTherap": "ANTALGIQUES/ANTIPYRETIQUES",
+   "codeAMM": "7744/09",
+   "dateExpire": "31/07/2024",
+   "fabriquant": "THERABEL LUCIEN PHARMA",
+   "demandeur": "THERABEL LUCIEN PHARMA",
+   "PGHT": "629.72"
+}{
+   "id": 127,
+   "designation": "FERLIX B12",
+   "dcifrancais": [
+      {
+         "name": "CITRATE D'AMMONIUM FERRIQUE ",
+         "dosage": "200 mg "
+      },
+      {
+         "name": " ACIDE FOLIQUE ",
+         "dosage": " 0,5 mg "
+      },
+      {
+         "name": " VITAMINE B12",
+         "dosage": " 5 g"
+      }
+   ],
+   "forme": "Sirop",
+   "voie": "Orale",
+   "presentation": "Flacon de 200 ml",
+   "classeTherap": "ANTIANEMIQUES",
+   "codeAMM": "7766/09",
+   "dateExpire": "31/07/2024",
+   "fabriquant": "BO PHARM",
+   "demandeur": "B&O PHARM",
+   "PGHT": "918.33"
+}{
+   "id": 128,
+   "designation": "KETESSE",
+   "dcifrancais": [
+      {
+         "name": "DEXKETOPROFENE",
+         "dosage": "25 mg"
+      }
+   ],
+   "forme": "Comprim",
+   "voie": "Orale",
+   "presentation": "B/20",
+   "classeTherap": "ANTIINFLAMMATOIRES NON STEROIDIEN",
+   "codeAMM": "7782/09",
+   "dateExpire": "31/07/2024",
+   "fabriquant": "MENARINI",
+   "demandeur": "MENARINI",
+   "PGHT": "2,741.90"
+}{
+   "id": 129,
+   "designation": "YANG CHUN",
+   "dcifrancais": [
+      {
+         "name": "EXTRAIT DE E1 ELEUTHEROCOCII RADIX ",
+         "dosage": "10.00 mg "
+      },
+      {
+         "name": " GINKGO BILOBA ",
+         "dosage": " 10.000 mg "
+      },
+      {
+         "name": " EXTRAIT DE HASUO ",
+         "dosage": " 30.000 mg "
+      },
+      {
+         "name": " EXTRAIT DE KAESONG KORYO INSAM ",
+         "dosage": " 5.0000 mg "
+      },
+      {
+         "name": " EXTRAIT DE PAEKDUSAN GUANNMOK DOBUSALII ",
+         "dosage": " 55.000 mg "
+      },
+      {
+         "name": " EXTRAIT DE SAMJANGCHONCHO SAESAM ",
+         "dosage": " 30.000 mg "
+      },
+      {
+         "name": " EXTRAIT DE SAMSIGUYOPCHO ",
+         "dosage": " 5.0000 mg "
+      },
+      {
+         "name": " STEARATE DE MAGNESIUM ",
+         "dosage": " 6.0000 mg "
+      },
+      {
+         "name": " VITAMINE E",
+         "dosage": " 5.0000 mg"
+      }
+   ],
+   "forme": "Glule",
+   "voie": "Orale",
+   "presentation": "B/6",
+   "classeTherap": "APHRODISIAQUES",
+   "codeAMM": "7788/09",
+   "dateExpire": "31/08/2024",
+   "fabriquant": "PHARMAPRODUCT MANUFACTURING (PPM)",
+   "demandeur": "PHARMAPRODUCT MANUFACTURING (PPM)",
+   "PGHT": "5,247.65"
+}{
+   "id": 130,
+   "designation": "GYNOMAX",
+   "dcifrancais": [
+      {
+         "name": "HYDROCORTISONE ACETATE ",
+         "dosage": "-"
+      },
+      {
+         "name": " METRONIDAZOLE ",
+         "dosage": "-"
+      },
+      {
+         "name": " NEOMYCINE SULFATE ",
+         "dosage": "-"
+      },
+      {
+         "name": " NYSTATINE",
+         "dosage": "-"
+      }
+   ],
+   "forme": "Ovule",
+   "voie": "Vaginale",
+   "presentation": "B/12",
+   "classeTherap": "Antiinfectieux",
+   "codeAMM": "7790/09",
+   "dateExpire": "31/08/2024",
+   "fabriquant": "PHARMAPRODUCT MANUFACTURING (PPM)",
+   "demandeur": "PHARMAPRODUCT MANUFACTURING (PPM)",
+   "PGHT": "2,794.37"
+}
